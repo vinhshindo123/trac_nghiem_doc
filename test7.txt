@@ -1,0 +1,331 @@
+{
+  "quizz": [
+    {
+      "id": 1,
+      "question": "Please do not leave\ndirty dishes, plastic bottles or paper on the beach.\nPlace all your rubbish in the rubbish bins when you leave.",
+      "answers": [
+        "You cannot eat on this beach.",
+        "You must clean the beach before you leave.",
+        "You aren't allowed to use plastic on the beach."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "POP MUSIC CONCERT\nNext Saturday in the town centre.\nEveryone is welcome to have fun, dance and sing at the greatest music event in our town.\nFree entrance for schoolchildren \nAdult tickets: £10.00",
+      "answers": [
+        "Only people who sing well can come to the concert.",
+        "Students don't need to pay anything to come to the concert.",
+        "Next Saturday's concert is not an important music event in this town."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "New message\nTo: Tim\nFrom: Latifa\nHi Tim!\nI hope you're well. Please tell me if you like your new school. Have you made any friends? Write and tell me your news! \nLatifa \nWhy did Latifa send this email?",
+      "answers": [
+        "to check if Tim has changed school",
+        "to tell Tim her news",
+        "to ask Tim about his new school"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Maths teacher\nJohn Preston gives lessons in your home.\nOnly on weekdays after 5 pm. £15.00 per hour.\nAll levels: Beginners to Advanced\nMore info: tel: 9089976",
+      "answers": [
+        "Each 2-hour lesson with John Preston costs £15.00,",
+        "John Preston teaches Maths only to excellent students.",
+        "You can't have a lesson with John Preston at the weekend."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "To: Pedro\nFrom: Emily\nHi Pedro,\nShall we go to the pool party? It sounds good! My brother can take us there by car but we will need to come back by train. Write back soon to let me know.\nEmily\nEmily wants to",
+      "answers": [
+        "go to the pool party with Pedro.",
+        "go to the pool party by train.",
+        "go to the pool party in Pedro's car."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Come to the School Party\nOn Friday\nAt Park School\nStarts at 7.00 p.m.\nEntrance: £1.50\nIncluded in entrance: food and drinks\nInterested?\nWrite down your name at Mr. Brown's office from Monday to Wednesday by 3.00 p.m.",
+      "answers": [
+        "The school party is on Friday afternoon.",
+        "You don't need to pay extra money to eat at the party.",
+        "Wednesday is the only day you can give your name to Mr.Brown."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Young people's holiday activities\nSarah likes holidays by the sea where she can rest all day. She doesn't like doing sports or going sightseeing. She likes to go to bed early in the evening and wake up late in the morning. When she wakes up, she goes to the beach and stays there all day, until about 5 p.m. She usually travels with her friends, so she spends most of her day talking to them. At lunchtime she only has a sandwich and some orange juice. In the evening she goes back to her hotel to have a shower and change clothes. She then goes into town with her friends where they have supper at a local or a fast food restaurant.\nJane loves going on holiday to places which have a lot of old buildings. Before each journey, she always likes to buy a guidebook so she knows where she can go and what things to see. She especially likes looking around old castles and learning about how people lived hundreds of years ago. Jane also likes to look around different museums. To eat a meal she will always go to restaurants which cook local food. She hates eating burgers and other unhealthy snacks.\nGemma is a great fan of dangerous sports. Every time she goes on holiday, she likes doing some very dangerous activities. One of the activities she likes is climbing up the side of a high mountain without any help. She also likes going on a small boat down a very fast and dangerous river. She tries to do a different dangerous activity every day when she's on holiday. She tries to be careful but once she ended her holiday in hospital and was taken home in an ambulance.\nWho likes places with a lot of history?",
+      "answers": [
+        "Sarah",
+        "Jane",
+        "Gemma"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Young people's holiday activities\nSarah likes holidays by the sea where she can rest all day. She doesn't like doing sports or going sightseeing. She likes to go to bed early in the evening and wake up late in the morning. When she wakes up, she goes to the beach and stays there all day, until about 5 p.m. She usually travels with her friends, so she spends most of her day talking to them. At lunchtime she only has a sandwich and some orange juice. In the evening she goes back to her hotel to have a shower and change clothes. She then goes into town with her friends where they have supper at a local or a fast food restaurant.\nJane loves going on holiday to places which have a lot of old buildings. Before each journey, she always likes to buy a guidebook so she knows where she can go and what things to see. She especially likes looking around old castles and learning about how people lived hundreds of years ago. Jane also likes to look around different museums. To eat a meal she will always go to restaurants which cook local food. She hates eating burgers and other unhealthy snacks.\nGemma is a great fan of dangerous sports. Every time she goes on holiday, she likes doing some very dangerous activities. One of the activities she likes is climbing up the side of a high mountain without any help. She also likes going on a small boat down a very fast and dangerous river. She tries to do a different dangerous activity every day when she's on holiday. She tries to be careful but once she ended her holiday in hospital and was taken home in an ambulance.\nWho likes to do things that are not very safe?",
+      "answers": [
+        "Sarah",
+        "Jane",
+        "Gemma"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Young people's holiday activities\nSarah likes holidays by the sea where she can rest all day. She doesn't like doing sports or going sightseeing. She likes to go to bed early in the evening and wake up late in the morning. When she wakes up, she goes to the beach and stays there all day, until about 5 p.m. She usually travels with her friends, so she spends most of her day talking to them. At lunchtime she only has a sandwich and some orange juice. In the evening she goes back to her hotel to have a shower and change clothes. She then goes into town with her friends where they have supper at a local or a fast food restaurant.\nJane loves going on holiday to places which have a lot of old buildings. Before each journey, she always likes to buy a guidebook so she knows where she can go and what things to see. She especially likes looking around old castles and learning about how people lived hundreds of years ago. Jane also likes to look around different museums. To eat a meal she will always go to restaurants which cook local food. She hates eating burgers and other unhealthy snacks.\nGemma is a great fan of dangerous sports. Every time she goes on holiday, she likes doing some very dangerous activities. One of the activities she likes is climbing up the side of a high mountain without any help. She also likes going on a small boat down a very fast and dangerous river. She tries to do a different dangerous activity every day when she's on holiday. She tries to be careful but once she ended her holiday in hospital and was taken home in an ambulance.\nWho likes to eat a little in the middle of the day?",
+      "answers": [
+        "Sarah",
+        "Jane",
+        "Gemma"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Young people's holiday activities\nSarah likes holidays by the sea where she can rest all day. She doesn't like doing sports or going sightseeing. She likes to go to bed early in the evening and wake up late in the morning. When she wakes up, she goes to the beach and stays there all day, until about 5 p.m. She usually travels with her friends, so she spends most of her day talking to them. At lunchtime she only has a sandwich and some orange juice. In the evening she goes back to her hotel to have a shower and change clothes. She then goes into town with her friends where they have supper at a local or a fast food restaurant.\nJane loves going on holiday to places which have a lot of old buildings. Before each journey, she always likes to buy a guidebook so she knows where she can go and what things to see. She especially likes looking around old castles and learning about how people lived hundreds of years ago. Jane also likes to look around different museums. To eat a meal she will always go to restaurants which cook local food. She hates eating burgers and other unhealthy snacks.\nGemma is a great fan of dangerous sports. Every time she goes on holiday, she likes doing some very dangerous activities. One of the activities she likes is climbing up the side of a high mountain without any help. She also likes going on a small boat down a very fast and dangerous river. She tries to do a different dangerous activity every day when she's on holiday. She tries to be careful but once she ended her holiday in hospital and was taken home in an ambulance.\nWho doesn't like to eat at fast food restaurants?",
+      "answers": [
+        "Sarah",
+        "Jane",
+        "Gemma"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Young people's holiday activities\nSarah likes holidays by the sea where she can rest all day. She doesn't like doing sports or going sightseeing. She likes to go to bed early in the evening and wake up late in the morning. When she wakes up, she goes to the beach and stays there all day, until about 5 p.m. She usually travels with her friends, so she spends most of her day talking to them. At lunchtime she only has a sandwich and some orange juice. In the evening she goes back to her hotel to have a shower and change clothes. She then goes into town with her friends where they have supper at a local or a fast food restaurant.\nJane loves going on holiday to places which have a lot of old buildings. Before each journey, she always likes to buy a guidebook so she knows where she can go and what things to see. She especially likes looking around old castles and learning about how people lived hundreds of years ago. Jane also likes to look around different museums. To eat a meal she will always go to restaurants which cook local food. She hates eating burgers and other unhealthy snacks.\nGemma is a great fan of dangerous sports. Every time she goes on holiday, she likes doing some very dangerous activities. One of the activities she likes is climbing up the side of a high mountain without any help. She also likes going on a small boat down a very fast and dangerous river. She tries to do a different dangerous activity every day when she's on holiday. She tries to be careful but once she ended her holiday in hospital and was taken home in an ambulance.\nWho travels with other people on holiday?",
+      "answers": [
+        "Sarah",
+        "Jane",
+        "Gemma"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Young people's holiday activities\nSarah likes holidays by the sea where she can rest all day. She doesn't like doing sports or going sightseeing. She likes to go to bed early in the evening and wake up late in the morning. When she wakes up, she goes to the beach and stays there all day, until about 5 p.m. She usually travels with her friends, so she spends most of her day talking to them. At lunchtime she only has a sandwich and some orange juice. In the evening she goes back to her hotel to have a shower and change clothes. She then goes into town with her friends where they have supper at a local or a fast food restaurant.\nJane loves going on holiday to places which have a lot of old buildings. Before each journey, she always likes to buy a guidebook so she knows where she can go and what things to see. She especially likes looking around old castles and learning about how people lived hundreds of years ago. Jane also likes to look around different museums. To eat a meal she will always go to restaurants which cook local food. She hates eating burgers and other unhealthy snacks.\nGemma is a great fan of dangerous sports. Every time she goes on holiday, she likes doing some very dangerous activities. One of the activities she likes is climbing up the side of a high mountain without any help. She also likes going on a small boat down a very fast and dangerous river. She tries to do a different dangerous activity every day when she's on holiday. She tries to be careful but once she ended her holiday in hospital and was taken home in an ambulance.\nWho had a problem when she was on holiday?",
+      "answers": [
+       "Sarah",
+        "Jane",
+        "Gemma"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Young people's holiday activities\nSarah likes holidays by the sea where she can rest all day. She doesn't like doing sports or going sightseeing. She likes to go to bed early in the evening and wake up late in the morning. When she wakes up, she goes to the beach and stays there all day, until about 5 p.m. She usually travels with her friends, so she spends most of her day talking to them. At lunchtime she only has a sandwich and some orange juice. In the evening she goes back to her hotel to have a shower and change clothes. She then goes into town with her friends where they have supper at a local or a fast food restaurant.\nJane loves going on holiday to places which have a lot of old buildings. Before each journey, she always likes to buy a guidebook so she knows where she can go and what things to see. She especially likes looking around old castles and learning about how people lived hundreds of years ago. Jane also likes to look around different museums. To eat a meal she will always go to restaurants which cook local food. She hates eating burgers and other unhealthy snacks.\nGemma is a great fan of dangerous sports. Every time she goes on holiday, she likes doing some very dangerous activities. One of the activities she likes is climbing up the side of a high mountain without any help. She also likes going on a small boat down a very fast and dangerous river. She tries to do a different dangerous activity every day when she's on holiday. She tries to be careful but once she ended her holiday in hospital and was taken home in an ambulance.\nWho likes to sleep a lot on holiday?",
+      "answers": [
+        "Sarah",
+        "Jane",
+        "Gemma"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Archie Campbell talks about computer games\nI started playing computer games when I was seven years old. My parents didn't let me have a computer so I used to go to my cousin's house and play games on his computer when his mum and dad were at work. My parents would have been very angry if they had known that.\nMy cousin Freddie showed me how to play games that older children usually play and he said that I was much better than most of his friends who were three years older than me. I was going to ask my parents again for a computer but he told me to wait for another year, at least.\nThen I started to have computer lessons at school. That was when everything changed. I learned how to make programmes and I started to make my own games with my cousin's help. From that time, I knew that making games was all I would ever want to do.\nI didn't say anything to my parents for a long time. Freddie's parents didn't know what we were doing, either. Then one evening it was parents' day at my school and my computer teacher told them that I had a brilliant future making computer games.\nNow I am 20 and I enjoy student life. I have already sold one game to a small computer company but I don't have much time to make games now because I have a lot of exams soon. However, two computer companies have said they want to talk to me as soon as I leave university because they want me on their team.\nArchie played computer games only at his cousin's house because",
+      "answers": [
+        "his cousin had two computers in his house.",
+        "his parents hadn't bought him a computer.",
+        "his mum had asked him to do so."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Archie Campbell talks about computer games\nI started playing computer games when I was seven years old. My parents didn't let me have a computer so I used to go to my cousin's house and play games on his computer when his mum and dad were at work. My parents would have been very angry if they had known that.\nMy cousin Freddie showed me how to play games that older children usually play and he said that I was much better than most of his friends who were three years older than me. I was going to ask my parents again for a computer but he told me to wait for another year, at least.\nThen I started to have computer lessons at school. That was when everything changed. I learned how to make programmes and I started to make my own games with my cousin's help. From that time, I knew that making games was all I would ever want to do.\nI didn't say anything to my parents for a long time. Freddie's parents didn't know what we were doing, either. Then one evening it was parents' day at my school and my computer teacher told them that I had a brilliant future making computer games.\nNow I am 20 and I enjoy student life. I have already sold one game to a small computer company but I don't have much time to make games now because I have a lot of exams soon. However, two computer companies have said they want to talk to me as soon as I leave university because they want me on their team.\nWhat did Freddie say to Archie?",
+      "answers": [
+        "that he was very clever",
+        "not to waste his time playing games",
+        "to ask his parents to buy him a computer"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Archie Campbell talks about computer games\nI started playing computer games when I was seven years old. My parents didn't let me have a computer so I used to go to my cousin's house and play games on his computer when his mum and dad were at work. My parents would have been very angry if they had known that.\nMy cousin Freddie showed me how to play games that older children usually play and he said that I was much better than most of his friends who were three years older than me. I was going to ask my parents again for a computer but he told me to wait for another year, at least.\nThen I started to have computer lessons at school. That was when everything changed. I learned how to make programmes and I started to make my own games with my cousin's help. From that time, I knew that making games was all I would ever want to do.\nI didn't say anything to my parents for a long time. Freddie's parents didn't know what we were doing, either. Then one evening it was parents' day at my school and my computer teacher told them that I had a brilliant future making computer games.\nNow I am 20 and I enjoy student life. I have already sold one game to a small computer company but I don't have much time to make games now because I have a lot of exams soon. However, two computer companies have said they want to talk to me as soon as I leave university because they want me on their team.\nWhat happened when Archie had computer lessons at school?",
+      "answers": [
+        "He stopped playing computer games.",
+        "He didn't want to go to his cousin's house anymore.",
+        "He understood what job he wanted to do in the future."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Archie Campbell talks about computer games\nI started playing computer games when I was seven years old. My parents didn't let me have a computer so I used to go to my cousin's house and play games on his computer when his mum and dad were at work. My parents would have been very angry if they had known that.\nMy cousin Freddie showed me how to play games that older children usually play and he said that I was much better than most of his friends who were three years older than me. I was going to ask my parents again for a computer but he told me to wait for another year, at least.\nThen I started to have computer lessons at school. That was when everything changed. I learned how to make programmes and I started to make my own games with my cousin's help. From that time, I knew that making games was all I would ever want to do.\nI didn't say anything to my parents for a long time. Freddie's parents didn't know what we were doing, either. Then one evening it was parents' day at my school and my computer teacher told them that I had a brilliant future making computer games.\nNow I am 20 and I enjoy student life. I have already sold one game to a small computer company but I don't have much time to make games now because I have a lot of exams soon. However, two computer companies have said they want to talk to me as soon as I leave university because they want me on their team.\nArchie's parents found out about his computer games from",
+      "answers": [
+        "his computer teacher.",
+        "Freddie's parents.",
+        "his cousin."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Archie Campbell talks about computer games\nI started playing computer games when I was seven years old. My parents didn't let me have a computer so I used to go to my cousin's house and play games on his computer when his mum and dad were at work. My parents would have been very angry if they had known that.\nMy cousin Freddie showed me how to play games that older children usually play and he said that I was much better than most of his friends who were three years older than me. I was going to ask my parents again for a computer but he told me to wait for another year, at least.\nThen I started to have computer lessons at school. That was when everything changed. I learned how to make programmes and I started to make my own games with my cousin's help. From that time, I knew that making games was all I would ever want to do.\nI didn't say anything to my parents for a long time. Freddie's parents didn't know what we were doing, either. Then one evening it was parents' day at my school and my computer teacher told them that I had a brilliant future making computer games.\nNow I am 20 and I enjoy student life. I have already sold one game to a small computer company but I don't have much time to make games now because I have a lot of exams soon. However, two computer companies have said they want to talk to me as soon as I leave university because they want me on their team.\nWhat does Archie do now?",
+      "answers": [
+        "work for a computer company",
+        "continue to earn money making games",
+        "study computers at university"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "The National Railway Museum\nThe National Railway Museum in York is (19)..........of the Science Museum Group. The museum (20)......... the story of rail transport in Britain.\nIt has a wonderful collection of important railway vehicles, such as Mallard and Duchess of Hamilton. There is also a big collection that (21)............furniture and other things from railway buildings, as well as jewellery worn by railway queens and models of planes and boats. There you can also find the Little Play Station which is a (22).............. especially for children, where they can learn about railways (23)............ play.\nIt is the largest museum of its type in Britain and thousands of people. (24)........... it every year. It is open daily from 10 a.m. to 5 p.m. Entrance is free.",
+      "answers": [
+        "part",
+        "field",
+        "flat"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "The National Railway Museum\nThe National Railway Museum in York is (19)..........of the Science Museum Group. The museum (20)......... the story of rail transport in Britain.\nIt has a wonderful collection of important railway vehicles, such as Mallard and Duchess of Hamilton. There is also a big collection that (21)............furniture and other things from railway buildings, as well as jewellery worn by railway queens and models of planes and boats. There you can also find the Little Play Station which is a (22).............. especially for children, where they can learn about railways (23)............ play.\nIt is the largest museum of its type in Britain and thousands of people. (24)........... it every year. It is open daily from 10 a.m. to 5 p.m. Entrance is free.",
+      "answers": [
+        "says",
+        "discusses",
+        "tells"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "The National Railway Museum\nThe National Railway Museum in York is (19)..........of the Science Museum Group. The museum (20)......... the story of rail transport in Britain.\nIt has a wonderful collection of important railway vehicles, such as Mallard and Duchess of Hamilton. There is also a big collection that (21)............furniture and other things from railway buildings, as well as jewellery worn by railway queens and models of planes and boats. There you can also find the Little Play Station which is a (22).............. especially for children, where they can learn about railways (23)............ play.\nIt is the largest museum of its type in Britain and thousands of people. (24)........... it every year. It is open daily from 10 a.m. to 5 p.m. Entrance is free.",
+      "answers": [
+        "saves",
+        "owns",
+        "includes"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "The National Railway Museum\nThe National Railway Museum in York is (19)..........of the Science Museum Group. The museum (20)......... the story of rail transport in Britain.\nIt has a wonderful collection of important railway vehicles, such as Mallard and Duchess of Hamilton. There is also a big collection that (21)............furniture and other things from railway buildings, as well as jewellery worn by railway queens and models of planes and boats. There you can also find the Little Play Station which is a (22).............. especially for children, where they can learn about railways (23)............ play.\nIt is the largest museum of its type in Britain and thousands of people. (24)........... it every year. It is open daily from 10 a.m. to 5 p.m. Entrance is free.",
+      "answers": [
+        "box",
+        "space",
+        "circus"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "The National Railway Museum\nThe National Railway Museum in York is (19)..........of the Science Museum Group. The museum (20)......... the story of rail transport in Britain.\nIt has a wonderful collection of important railway vehicles, such as Mallard and Duchess of Hamilton. There is also a big collection that (21)............furniture and other things from railway buildings, as well as jewellery worn by railway queens and models of planes and boats. There you can also find the Little Play Station which is a (22).............. especially for children, where they can learn about railways (23)............ play.\nIt is the largest museum of its type in Britain and thousands of people. (24)........... it every year. It is open daily from 10 a.m. to 5 p.m. Entrance is free.",
+      "answers": [
+        "through",
+        "against",
+        "to"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "The National Railway Museum\nThe National Railway Museum in York is (19)..........of the Science Museum Group. The museum (20)......... the story of rail transport in Britain.\nIt has a wonderful collection of important railway vehicles, such as Mallard and Duchess of Hamilton. There is also a big collection that (21)............furniture and other things from railway buildings, as well as jewellery worn by railway queens and models of planes and boats. There you can also find the Little Play Station which is a (22).............. especially for children, where they can learn about railways (23)............ play.\nIt is the largest museum of its type in Britain and thousands of people. (24)........... it every year. It is open daily from 10 a.m. to 5 p.m. Entrance is free.",
+      "answers": [
+        "go",
+        "visit",
+        "arrive"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "From: Jenny\nnTo: Kate\nThank you (0) ___for___ the letter and the photo. Your new house looks really nice. I can't wait (25) __________ come and visit.\nMy family is going on holiday for two weeks (26) __________ July. We are going to rent a house on an island. There are lots of places to swim and sunbathe.\nWe will stay near a small town. My mum and I are going to do a lot (27) __________ shopping there. My dad and my brother don't like shopping, but (28) __________ will take a boat out and go fishing!\nWould you (29) __________ to come with us? (30) __________ could go to the beach and swim in\nthe sea, go shopping or to the cinema.\nPlease write soon.\nLove,\nJenny",
+      "answers": [ 
+        "Words",
+        "Letters",
+        "Messages"
+      ]
+    }
+  ],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "You must clean the beach before you leave."
+    },
+    {
+      "quiz_id": 2,
+      "answer": "Students don't need to pay anything to come to the concert."
+    },
+    {
+      "quiz_id": 3,
+      "answer": "to ask Tim about his new school."
+    },
+    {
+      "quiz_id": 4,
+      "answer": "You can't have a lesson with John Preston at the weekend."
+    },
+    {
+      "quiz_id": 5,
+      "answer": "go to the pool party with Pedro."
+    },
+    {
+      "quiz_id": 6,
+      "answer": "You don't need to pay extra money to eat at the party."
+    },
+    {
+      "quiz_id": 7,
+      "answer": "Jane"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "Gemma"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "Sarah"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "Jane"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "Sarah"
+    },
+    {
+      "quiz_id": 12,
+      "answer": "Dinosaurs"
+    },
+    {
+      "quiz_id": 13,
+      "answer": "Gemma"
+    },
+    {
+      "quiz_id": 14,
+      "answer": "his parents hadn't bought him a computer."
+    },
+    {
+      "quiz_id": 15,
+      "answer": "that he was very clever."
+    },
+    {
+      "quiz_id": 16,
+      "answer": "He understood what job he wanted to do in the future."
+    },
+    {
+      "quiz_id": 17,
+      "answer": "his computer teacher."
+    },
+    {
+      "quiz_id": 18,
+      "answer": "study computers at university"
+    },
+    {
+      "quiz_id": 19,
+      "answer": "part"
+    },
+    {
+      "quiz_id": 20,
+      "answer": "tells"
+    },
+    {
+      "quiz_id": 21,
+      "answer": "includes"
+    },
+    {
+      "quiz_id": 22,
+      "answer": "space"
+    },
+    {
+      "quiz_id": 23,
+      "answer": "through"
+    },
+    {
+      "quiz_id": 24,
+      "answer": "visit"
+    },
+    {
+      "quiz_id": 25,
+      "answer": "me,the,the,what,get,as"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "quizz": [
+    {
+      "id": 1,
+      "question": "Summer Job For the months of July and August we are looking for people to work for us. Monday to Saturday 8 a.m. to 6 p.m. daily You will take orders and make sandwiches.",
+      "answers": [
+        "Staff are needed to help in the kitchen only.",
+        "People need to work for the whole summer.",
+        "You have to work 6 days a week in this job.",
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Hi Freddie, Why don't you come to my home and watch the football match tonight? I'll order pizza. You can stay for the night if you want. Call me! Martin",
+      "answers": [
+        "to ask Freddie what pizza he wants",
+        "to invite Freddie to his house",
+        "to tell Freddie to come to his house to play football",
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "question": "TEEN SUMMER CAMP 10th-20th August, or, 20th-30th August ➤ Ages: 12-16 ➤ Activities: water sports • dance • painting More details on our website:",
+      "answers": [
+        "Students aged over 16 years old can't take part in the summer camp.",
+        "here are four different dates that you can choose from to go on the summer camp.",
+        "No sports are included in the summer camp activities.",
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Running Competition From: Mill School-10 kilometres On: Saturday 20th May Entrance: £2.00 Prizes for the first 10 runners All money earned will be given to people who need help.",
+      "answers": [
+        "Money from the competition will be used to repair Mill School.",
+        "Everyone has to pay £2.00 to take part in the competition.",
+        "The first runner will win £10.00 as a prize.",
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Hi Tommy. It's my sister's birthday on Sunday. I want to buy her that new magazine, Fashion Buzz. The problem is that I'm too busy at work this week. Can you please buy it for her? I'll give you the money. Olga",
+      "answers": [
+        "ask Tommy to help her with her sister's birthday present.",
+        "tell Tommy to lend her money to buy a present for her sister.",
+        "invite Tommy to her sister's birthday party on Sunday.",
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Helpline: 24hours/7 days a week If you are in danger, please call: 1265m Find information for our service on our website: www.helpline.co.uk",
+      "answers": [
+        "This service is not available at the weekends.",
+        "You can only get information by phoning.",
+        "People can ask for help at this phone number any time.",
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Who plays sport more than once a week?",
+      "answers": [
+        "Jack",
+        "Edwarda",
+        "Phil",
+        "4"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Who went to another country to watch their sport?",
+      "answers": [
+       "Jack",
+       "Edwarda",
+       "Phil",
+        "4"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Who never travels to watch a match?",
+      "answers": [
+        "Jack",
+        "Edwarda",
+        "Phil",
+        "4"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Who goes to matches with a member of his family?",
+      "answers": [
+        "Jack",
+        "Edwarda",
+        "Phil",
+        "4"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Who plays his favourite sport on his computer?",
+      "answers": [
+        "Jack",
+        "Edwarda",
+        "Phil",
+        "4"
+      ]
+    },
+    {
+      "id": 12,
+      "question": " Who goes to a place that is full of people?",
+      "answers": [
+      "Jack",
+      "Edwarda",
+      "Phil",
+        "4"
+      ]
+    },
+    {
+      "id": 13,
+      "question": " Who is having sport lessons?",
+      "answers": [
+        "Jack",
+        "Edwarda",
+        "Phil",
+        "4"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Where does Carol say she first started to sing in front of people?",
+      "answers": [
+        "at home",
+        "in school",
+        "in church",
+        "4"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Carol says that",
+      "answers": [
+        "she had always wanted to sing on her own.",
+        "none of her friends thought she was a good singer.",
+        "she tried to find some friends to start a band.",
+        "4"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "What did Carol think when the teachers wanted to put her in a group?",
+      "answers": [
+        "It would be better than singing on her own.",
+        "She wouldn't be known as a solo singer.",
+        "Her parents would be happier.",
+        "4"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Why did Carol finally decide to join the group?",
+      "answers": [
+        "Her teachers told her she had to.",
+        "She liked the other girls in the group.",
+        "She didn't think she was good enough on her own.",
+        "4"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What does Carol say she likes most about being in the group?",
+      "answers": [
+        "travelling",
+        "the money",
+        "being away from home",
+        "4"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Alexander McQueen is one of the world's most famous clothes designers. \nHe started working in an expensive clothes shop in London (19)__________ he made clothes for people like Prince Charles and the Russian leader Mikhail Gorbachev. In the 1990s he decided to work on his own and he (20)__________ own fashion business. his Many rich and famous people became his (21)__________and the clothes \nhe made for them were often about his clothes and about him. unusual. Magazines and newspapers liked to write (22)__________. However, he wasn't always (23)__________. to journalists so they didn't always write nice things about him. But McQueen never \ncared what anyone said about him. Unfortunately, he died in 2010 when he was only 41 years (24)__________",
+      "answers": [
+        "which",
+        "who",
+        "where",
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Alexander McQueen is one of the world's most famous clothes designers. He started working in an expensive clothes shop in London (19)__________ he made clothes for people like Prince Charles and the Russian leader Mikhail Gorbachev. In the 1990s he decided to work on his own and he (20)__________ own fashion business. his Many rich and famous people became his (21)__________and the clothes he made for them were often about his clothes and about him. unusual. Magazines and newspapers liked to write (22)__________. However, he wasn't always (23)__________. to journalists so they didn't always write nice things about him. But McQueen never cared what anyone said about him. Unfortunately, he died in 2010 when he was only 41 years (24)__________",
+      "answers": [
+        "closed",
+        "opened",
+        "sold",
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Alexander McQueen is one of the world's most famous clothes designers. He started working in an expensive clothes shop in London (19)__________ he made clothes for people like Prince Charles and the Russian leader Mikhail Gorbachev. In the 1990s he decided to work on his own and he (20)__________ own fashion business. his Many rich and famous people became his (21)__________and the clothes he made for them were often about his clothes and about him. unusual. Magazines and newspapers liked to write (22)__________. However, he wasn't always (23)__________. to journalists so they didn't always write nice things about him. But McQueen never cared what anyone said about him. Unfortunately, he died in 2010 when he was only 41 years (24)__________",
+      "answers": [
+        "customers",
+        "managers",
+        "workers",
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Alexander McQueen is one of the world's most famous clothes designers. He started working in an expensive clothes shop in London (19)__________ he made clothes for people like Prince Charles and the Russian leader Mikhail Gorbachev. In the 1990s he decided to work on his own and he (20)__________ own fashion business. his Many rich and famous people became his (21)__________and the clothes he made for them were often about his clothes and about him. unusual. Magazines and newspapers liked to write (22)__________. However, he wasn't always (23)__________. to journalists so they didn't always write nice things about him. But McQueen never cared what anyone said about him. Unfortunately, he died in 2010 when he was only 41 years (24)__________",
+      "answers": [
+        "books",
+        "articles",
+        "films",
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Alexander McQueen is one of the world's most famous clothes designers. He started working in an expensive clothes shop in London (19)__________ he made clothes for people like Prince Charles and the Russian leader Mikhail Gorbachev. In the 1990s he decided to work on his own and he (20)__________ own fashion business. his Many rich and famous people became his (21)__________and the clothes he made for them were often about his clothes and about him. unusual. Magazines and newspapers liked to write (22)__________. However, he wasn't always (23)__________. to journalists so they didn't always write nice things about him. But McQueen never cared what anyone said about him. Unfortunately, he died in 2010 when he was only 41 years (24)__________",
+      "answers": [
+        "angry",
+        "afraid",
+        "pleasant",
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Alexander McQueen is one of the world's most famous clothes designers. He started working in an expensive clothes shop in London (19)__________ he made clothes for people like Prince Charles and the Russian leader Mikhail Gorbachev. In the 1990s he decided to work on his own and he (20)__________ own fashion business. his Many rich and famous people became his (21)__________and the clothes he made for them were often about his clothes and about him. unusual. Magazines and newspapers liked to write (22)__________. However, he wasn't always (23)__________. to journalists so they didn't always write nice things about him. But McQueen never cared what anyone said about him. Unfortunately, he died in 2010 when he was only 41 years (24)__________",
+      "answers": [
+        "aged",
+        "old",
+        "young",
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Hi VickyI missed class today because I had (0).. to go to my sister's wedding. (25)__________ was the lesson? I hope you were there because I am missing the biology notes. Please can you email them to me? I need them because we have (26)__________ after tomorrow and I want to make sure (27)__________ I pass. exam the day By the way, did you hear (28)__________ Facebook page that he, too, is (29)__________. Ralph Mathers, the biology professor? I saw on his married this weekend! Please write back (30)__________ soon as possible!",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "You have to work 6 days a week in this job."
+    },
+    {
+      "quiz_id": 2,
+      "answer": "to invite Freddie to his house"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "Students aged over 16 years old can't take part in the summer camp."
+    },
+    {
+      "quiz_id": 4,
+      "answer": "Everyone has to pay £2.00 to take part in the competition."
+    },
+    {
+      "quiz_id": 5,
+      "answer": "ask Tommy to help her with her sister's birthday present."
+    },
+    {
+      "quiz_id": 6,
+      "answer": "People can ask for help at this phone number any time."
+    },
+    {
+      "quiz_id": 7,
+      "answer": "Phil"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "Edwarda"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "Phil"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "Jack"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "Edwarda"
+    },
+    {
+      "quiz_id": 12,
+      "answer": "Jack"
+    },
+    {
+      "quiz_id": 13,
+      "answer": "Phil"
+    },
+    {
+      "quiz_id": 14,
+      "answer": "in church"
+    },
+    {
+      "quiz_id": 15,
+      "answer": "she had always wanted to sing on her own."
+    },
+    {
+      "quiz_id": 16,
+      "answer": "She wouldn't be known as a solo singer."
+    },
+    {
+      "quiz_id": 17,
+      "answer": "She liked the other girls in the group."
+    },
+    {
+      "quiz_id": 18,
+      "answer": "travelling"
+    },
+    {
+      "quiz_id": 19,
+      "answer": "where"
+    },
+    {
+      "quiz_id": 20,
+      "answer": "sold"
+    },
+    {
+      "quiz_id": 21,
+      "answer": "customers"
+    },
+    {
+      "quiz_id": 22,
+      "answer": "articles"
+    },
+    {
+      "quiz_id": 23,
+      "answer": "pleasant"
+    },
+    {
+      "quiz_id": 24,
+      "answer": "old"
+    },
+    {
+      "quiz_id": 25,
+      "answer": "now,on,that,about,getting,as"
+    }
+  ]
+}

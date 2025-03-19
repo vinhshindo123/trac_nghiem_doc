@@ -1,0 +1,356 @@
+{
+  "quizz": [
+    {
+      "id": 1,
+      "question": "Dear Ms Smith,\nI can’t come to work today.\nI was very ill last night. I had a high temperature, so I need to go to the doctor this morning.\nJohn",
+      "answers": [
+        "John will see the doctor after work today",
+        "John is too sick to go to work",
+        "John will go to work in the morning",
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "question": "NEW TABLET COMPUTERS\nWe are sorry but we sold all the tablets. We will have some more on Friday. Please ask one of the shop assistants for more information or look at our website.",
+      "answers": [
+        "You can only learn about the new tablets online",
+        "You can buy a new tablet today",
+        "There will be more tablets at the end of the week",
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "question": "MUSIC FESTIVAL\n3-day event starting on Friday at Farmer Bob's farm\nPlease bring:\n• your ticket and identification\n• a tent\n• lots of water\nEveryone is welcome!",
+      "answers": [
+        "There is water available in the festival",
+        "The festival finishes on Sunday",
+        "The festival is only for farmers",
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "question": "CITY PARK\nPlease do not give food to the ducks!\nThe lake is very dirty, so please do not swim in it.\nThis park closes at 7 p.m. in the summer",
+      "answers": [
+        "There aren't any animals in the park",
+        "The park is closed during the summer",
+        "You can't get into the lake",
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Email from Margaret to Billy\nHi Billy,\nI am very excited! My uncle is coming to visit us tomorrow for ten days. I haven't seen him since Christmas. I hope he brings me lots of presents.\nMargaret\nWhy did Magaret write this email",
+      "answers": [
+        "to tell Billy that her uncle is coming for Christmas",
+        "to tell Billy that she's happy about her uncle's visit",
+        "to tell Billy that she saw her uncle ten days ago",
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "question": "HOUSE FOR SALE\nPrice: £200,000\n4 bedrooms and 2 bathrooms\nSmall garden at the back\nGarage big enough for two small cars\n5 minutes' walk to get the train",
+      "answers": [
+        "There is a garden by the front door",
+        "There are more bathrooms than bedrooms",
+        "The house is close to the train station",
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Three people talking about the internet\nKaren\nI think the internet is great. My cousins live in Australia and I really miss them. We use Skype to talk once a week and to tell each other our news. Also, my best friend lives in Germany at the moment because she works there so we talk on the internet nearly every day. It would be very expensive if we talked to each other on the phone but it doesn’t cost us anything to talk on the internet.\nThe internet is a great way to have fun. I love playing games on my own and with my friends on the computer. I also play games with people that I have not met in real life. Some of them are even in different countries, which is exciting. Sometimes my friends at work think that I should stop playing because games can make you do bad things in real life. However, I’m clever enough to know the difference between games and real life. I wouldn’t do anything bad.\nSue\nI’m not really interested in playing games on the internet although most of my friends are. For me the best thing about the internet is that I can find information about everything. When my parents were young, they had to go to the library if they wanted to know about something for a project, I can be comfortable in my office and do all my work. Also, I am learning German on the internet. There is a fun website where you learn words by listening to songs in German. It’s much better than my boring French classes when I was a student.\n\nWho says working in an office is easier now?",
+      "answers": [
+        "Karen",
+        "Peter",
+        "Sue",
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Three people talking about the internet\nKaren\nI think the internet is great. My cousins live in Australia and I really miss them. We use Skype to talk once a week and to tell each other our news. Also, my best friend lives in Germany at the moment because she works there so we talk on the internet nearly every day. It would be very expensive if we talked to each other on the phone but it doesn’t cost us anything to talk on the internet.\nThe internet is a great way to have fun. I love playing games on my own and with my friends on the computer. I also play games with people that I have not met in real life. Some of them are even in different countries, which is exciting. Sometimes my friends at work think that I should stop playing because games can make you do bad things in real life. However, I’m clever enough to know the difference between games and real life. I wouldn’t do anything bad.\nSue\nI’m not really interested in playing games on the internet although most of my friends are. For me the best thing about the internet is that I can find information about everything. When my parents were young, they had to go to the library if they wanted to know about something for a project, I can be comfortable in my office and do all my work. Also, I am learning German on the internet. There is a fun website where you learn words by listening to songs in German. It’s much better than my boring French classes when I was a student.\n\nWho says their best friend is in a different country?",
+      "answers": [
+        "Karen",
+        "Peter",
+        "Sue",
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Three people talking about the internet\nKaren\nI think the internet is great. My cousins live in Australia and I really miss them. We use Skype to talk once a week and to tell each other our news. Also, my best friend lives in Germany at the moment because she works there so we talk on the internet nearly every day. It would be very expensive if we talked to each other on the phone but it doesn’t cost us anything to talk on the internet.\nThe internet is a great way to have fun. I love playing games on my own and with my friends on the computer. I also play games with people that I have not met in real life. Some of them are even in different countries, which is exciting. Sometimes my friends at work think that I should stop playing because games can make you do bad things in real life. However, I’m clever enough to know the difference between games and real life. I wouldn’t do anything bad.\nSue\nI’m not really interested in playing games on the internet although most of my friends are. For me the best thing about the internet is that I can find information about everything. When my parents were young, they had to go to the library if they wanted to know about something for a project, I can be comfortable in my office and do all my work. Also, I am learning German on the internet. There is a fun website where you learn words by listening to songs in German. It’s much better than my boring French classes when I was a student.\n\nWho says their colleagues worry about them?",
+      "answers": [
+        "Karen",
+        "Peter",
+        "Sue",
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Three people talking about the internet\nKaren\nI think the internet is great. My cousins live in Australia and I really miss them. We use Skype to talk once a week and to tell each other our news. Also, my best friend lives in Germany at the moment because she works there so we talk on the internet nearly every day. It would be very expensive if we talked to each other on the phone but it doesn’t cost us anything to talk on the internet.\nThe internet is a great way to have fun. I love playing games on my own and with my friends on the computer. I also play games with people that I have not met in real life. Some of them are even in different countries, which is exciting. Sometimes my friends at work think that I should stop playing because games can make you do bad things in real life. However, I’m clever enough to know the difference between games and real life. I wouldn’t do anything bad.\nSue\nI’m not really interested in playing games on the internet although most of my friends are. For me the best thing about the internet is that I can find information about everything. When my parents were young, they had to go to the library if they wanted to know about something for a project, I can be comfortable in my office and do all my work. Also, I am learning German on the internet. There is a fun website where you learn words by listening to songs in German. It’s much better than my boring French classes when I was a student.\n\nWho says they are different from their friends?",
+      "answers": [
+        "Karen",
+        "Peter",
+        "Sue",
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Three people talking about the internet\nKaren\nI think the internet is great. My cousins live in Australia and I really miss them. We use Skype to talk once a week and to tell each other our news. Also, my best friend lives in Germany at the moment because she works there so we talk on the internet nearly every day. It would be very expensive if we talked to each other on the phone but it doesn’t cost us anything to talk on the internet.\nThe internet is a great way to have fun. I love playing games on my own and with my friends on the computer. I also play games with people that I have not met in real life. Some of them are even in different countries, which is exciting. Sometimes my friends at work think that I should stop playing because games can make you do bad things in real life. However, I’m clever enough to know the difference between games and real life. I wouldn’t do anything bad.\nSue\nI’m not really interested in playing games on the internet although most of my friends are. For me the best thing about the internet is that I can find information about everything. When my parents were young, they had to go to the library if they wanted to know about something for a project, I can be comfortable in my office and do all my work. Also, I am learning German on the internet. There is a fun website where you learn words by listening to songs in German. It’s much better than my boring French classes when I was a student.\n\nWho says they are learning a new language?",
+      "answers": [
+        "Karen",
+        "Peter",
+        "Sue",
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Three people talking about the internet\nKaren\nI think the internet is great. My cousins live in Australia and I really miss them. We use Skype to talk once a week and to tell each other our news. Also, my best friend lives in Germany at the moment because she works there so we talk on the internet nearly every day. It would be very expensive if we talked to each other on the phone but it doesn’t cost us anything to talk on the internet.\nThe internet is a great way to have fun. I love playing games on my own and with my friends on the computer. I also play games with people that I have not met in real life. Some of them are even in different countries, which is exciting. Sometimes my friends at work think that I should stop playing because games can make you do bad things in real life. However, I’m clever enough to know the difference between games and real life. I wouldn’t do anything bad.\nSue\nI’m not really interested in playing games on the internet although most of my friends are. For me the best thing about the internet is that I can find information about everything. When my parents were young, they had to go to the library if they wanted to know about something for a project, I can be comfortable in my office and do all my work. Also, I am learning German on the internet. There is a fun website where you learn words by listening to songs in German. It’s much better than my boring French classes when I was a student.\n\nWho says they have made new friends on the internet?",
+      "answers": [
+        "Karen",
+        "Peter",
+        "Sue",
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Three people talking about the internet\nKaren\nI think the internet is great. My cousins live in Australia and I really miss them. We use Skype to talk once a week and to tell each other our news. Also, my best friend lives in Germany at the moment because she works there so we talk on the internet nearly every day. It would be very expensive if we talked to each other on the phone but it doesn’t cost us anything to talk on the internet.\nThe internet is a great way to have fun. I love playing games on my own and with my friends on the computer. I also play games with people that I have not met in real life. Some of them are even in different countries, which is exciting. Sometimes my friends at work think that I should stop playing because games can make you do bad things in real life. However, I’m clever enough to know the difference between games and real life. I wouldn’t do anything bad.\nSue\nI’m not really interested in playing games on the internet although most of my friends are. For me the best thing about the internet is that I can find information about everything. When my parents were young, they had to go to the library if they wanted to know about something for a project, I can be comfortable in my office and do all my work. Also, I am learning German on the internet. There is a fun website where you learn words by listening to songs in German. It’s much better than my boring French classes when I was a student.\n\nWho says the internet saves them money?",
+      "answers": [
+        "Karen",
+        "Peter",
+        "Sue",
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Giving food to poor people\nKatie Stagliano was only twelve when she thought of a way to help give food to poor people in her city. Katie had been watching a cooking programme with her mum who works as a waitress in a restaurant. On the programme they were making soups out of different kinds of vegetables and they were showing people how to make lots of food cheaply.\nCabbage was one of the vegetables that they used and so Katie started to grow some. She grew a ten-kilo cabbage in her garden. That cabbage was big enough to make food for 275 people at her local soup café where people who are hungry can go and get free food.\nKatie said, 'When I saw how many hungry people had soup from my cabbage I thought that it doesn’t have to be difficult or expensive to help people'.\nKatie adds, 'It also gave me the idea for my business, Katie's Gardens, which builds vegetable gardens so that food can be grown and given to the poor. We don’t make any money but everyone working with us takes food for free. We grow lots of fruit and vegetables and take them to places all over the city.'\nKatie says that she wants to ask people to open more of these gardens all over the country. 'I want them to be looked after by young people like myself. Then they will understand how important it is to help other people.'\n\nWhere did Katie get the idea to help people from?",
+      "answers": [
+        "the TV",
+        "her mum",
+        "a restaurant",
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Giving food to poor people\nKatie Stagliano was only twelve when she thought of a way to help give food to poor people in her city. Katie had been watching a cooking programme with her mum who works as a waitress in a restaurant. On the programme they were making soups out of different kinds of vegetables and they were showing people how to make lots of food cheaply.\nCabbage was one of the vegetables that they used and so Katie started to grow some. She grew a ten-kilo cabbage in her garden. That cabbage was big enough to make food for 275 people at her local soup café where people who are hungry can go and get free food.\nKatie said, 'When I saw how many hungry people had soup from my cabbage I thought that it doesn’t have to be difficult or expensive to help people'.\nKatie adds, 'It also gave me the idea for my business, Katie's Gardens, which builds vegetable gardens so that food can be grown and given to the poor. We don’t make any money but everyone working with us takes food for free. We grow lots of fruit and vegetables and take them to places all over the city.'\nKatie says that she wants to ask people to open more of these gardens all over the country. 'I want them to be looked after by young people like myself. Then they will understand how important it is to help other people.'\n\nKatie gives food to people who come",
+      "answers": [
+        "to her kitchen",
+        "to her garden",
+        "to a cafe",
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Giving food to poor people\nKatie Stagliano was only twelve when she thought of a way to help give food to poor people in her city. Katie had been watching a cooking programme with her mum who works as a waitress in a restaurant. On the programme they were making soups out of different kinds of vegetables and they were showing people how to make lots of food cheaply.\nCabbage was one of the vegetables that they used and so Katie started to grow some. She grew a ten-kilo cabbage in her garden. That cabbage was big enough to make food for 275 people at her local soup café where people who are hungry can go and get free food.\nKatie said, 'When I saw how many hungry people had soup from my cabbage I thought that it doesn’t have to be difficult or expensive to help people'.\nKatie adds, 'It also gave me the idea for my business, Katie's Gardens, which builds vegetable gardens so that food can be grown and given to the poor. We don’t make any money but everyone working with us takes food for free. We grow lots of fruit and vegetables and take them to places all over the city.'\nKatie says that she wants to ask people to open more of these gardens all over the country. 'I want them to be looked after by young people like myself. Then they will understand how important it is to help other people.'\n\nKatie said that she understood",
+      "answers": [
+        "how to make difficult meals for people",
+        "how to get free food for her family",
+        "how she could easily make someone’s life better",
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Giving food to poor people\nKatie Stagliano was only twelve when she thought of a way to help give food to poor people in her city. Katie had been watching a cooking programme with her mum who works as a waitress in a restaurant. On the programme they were making soups out of different kinds of vegetables and they were showing people how to make lots of food cheaply.\nCabbage was one of the vegetables that they used and so Katie started to grow some. She grew a ten-kilo cabbage in her garden. That cabbage was big enough to make food for 275 people at her local soup café where people who are hungry can go and get free food.\nKatie said, 'When I saw how many hungry people had soup from my cabbage I thought that it doesn’t have to be difficult or expensive to help people'.\nKatie adds, 'It also gave me the idea for my business, Katie's Gardens, which builds vegetable gardens so that food can be grown and given to the poor. We don’t make any money but everyone working with us takes food for free. We grow lots of fruit and vegetables and take them to places all over the city.'\nKatie says that she wants to ask people to open more of these gardens all over the country. 'I want them to be looked after by young people like myself. Then they will understand how important it is to help other people.'\n\nWhat does Katie say about her business?",
+      "answers": [
+        "She is making lots of money",
+        "The workers get paid with food",
+        "She grows all the food by herself",
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Giving food to poor people\nKatie Stagliano was only twelve when she thought of a way to help give food to poor people in her city. Katie had been watching a cooking programme with her mum who works as a waitress in a restaurant. On the programme they were making soups out of different kinds of vegetables and they were showing people how to make lots of food cheaply.\nCabbage was one of the vegetables that they used and so Katie started to grow some. She grew a ten-kilo cabbage in her garden. That cabbage was big enough to make food for 275 people at her local soup café where people who are hungry can go and get free food.\nKatie said, 'When I saw how many hungry people had soup from my cabbage I thought that it doesn’t have to be difficult or expensive to help people'.\nKatie adds, 'It also gave me the idea for my business, Katie's Gardens, which builds vegetable gardens so that food can be grown and given to the poor. We don’t make any money but everyone working with us takes food for free. We grow lots of fruit and vegetables and take them to places all over the city.'\nKatie says that she wants to ask people to open more of these gardens all over the country. 'I want them to be looked after by young people like myself. Then they will understand how important it is to help other people.'\n\nWhat is Katie hoping to do in the future?",
+      "answers": [
+        "get other people to do what she is doing",
+        "grow food in her neighbour’s garden",
+        "start a business that sells food to shops",
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Dr Cicely Williams\nCicely Williams was the first woman from Jamaica to go to university to (19) ______________ medicine. She went to Oxford University just after the end of World War I. She was very (20) ______________ in health problems that children have and medicines to help with these problems.\nShe was working at a time when there were not many women doctors. It was difficult for her to make people (21) ______________ to her ideas. In her life she worked in hospitals in America, Europe, Africa and Asia. She was (22) ______________ famous for her work that showed how important healthy food and education is to stop babies and children from getting (23) ______________. While she was in Africa, she found a (24) ______________ to help many babies who were ill by telling their mothers what to do.",
+      "answers": [
+        "prepare",
+        "study",
+        "know",
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Dr Cicely Williams\nCicely Williams was the first woman from Jamaica to go to university to (19) ______________ medicine. She went to Oxford University just after the end of World War I. She was very (20) ______________ in health problems that children have and medicines to help with these problems.\nShe was working at a time when there were not many women doctors. It was difficult for her to make people (21) ______________ to her ideas. In her life she worked in hospitals in America, Europe, Africa and Asia. She was (22) ______________ famous for her work that showed how important healthy food and education is to stop babies and children from getting (23) ______________. While she was in Africa, she found a (24) ______________ to help many babies who were ill by telling their mothers what to do.",
+      "answers": [
+        "interested",
+        "sad",
+        "worried",
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Dr Cicely Williams\nCicely Williams was the first woman from Jamaica to go to university to (19) ______________ medicine. She went to Oxford University just after the end of World War I. She was very (20) ______________ in health problems that children have and medicines to help with these problems.\nShe was working at a time when there were not many women doctors. It was difficult for her to make people (21) ______________ to her ideas. In her life she worked in hospitals in America, Europe, Africa and Asia. She was (22) ______________ famous for her work that showed how important healthy food and education is to stop babies and children from getting (23) ______________. While she was in Africa, she found a (24) ______________ to help many babies who were ill by telling their mothers what to do.",
+      "answers": [
+        "hear",
+        "listen",
+        "believe",
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Dr Cicely Williams\nCicely Williams was the first woman from Jamaica to go to university to (19) ______________ medicine. She went to Oxford University just after the end of World War I. She was very (20) ______________ in health problems that children have and medicines to help with these problems.\nShe was working at a time when there were not many women doctors. It was difficult for her to make people (21) ______________ to her ideas. In her life she worked in hospitals in America, Europe, Africa and Asia. She was (22) ______________ famous for her work that showed how important healthy food and education is to stop babies and children from getting (23) ______________. While she was in Africa, she found a (24) ______________ to help many babies who were ill by telling their mothers what to do.",
+      "answers": [
+        "began",
+        "arrived",
+        "became",
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Dr Cicely Williams\nCicely Williams was the first woman from Jamaica to go to university to (19) ______________ medicine. She went to Oxford University just after the end of World War I. She was very (20) ______________ in health problems that children have and medicines to help with these problems.\nShe was working at a time when there were not many women doctors. It was difficult for her to make people (21) ______________ to her ideas. In her life she worked in hospitals in America, Europe, Africa and Asia. She was (22) ______________ famous for her work that showed how important healthy food and education is to stop babies and children from getting (23) ______________. While she was in Africa, she found a (24) ______________ to help many babies who were ill by telling their mothers what to do.",
+      "answers": [
+        "sick",
+        "broken",
+        "terrible",
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Dr Cicely Williams\nCicely Williams was the first woman from Jamaica to go to university to (19) ______________ medicine. She went to Oxford University just after the end of World War I. She was very (20) ______________ in health problems that children have and medicines to help with these problems.\nShe was working at a time when there were not many women doctors. It was difficult for her to make people (21) ______________ to her ideas. In her life she worked in hospitals in America, Europe, Africa and Asia. She was (22) ______________ famous for her work that showed how important healthy food and education is to stop babies and children from getting (23) ______________. While she was in Africa, she found a (24) ______________ to help many babies who were ill by telling their mothers what to do.",
+      "answers": [
+        "path",
+        "way",
+        "road",
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "question": "From: Alexis\nTo: Rachel\nI'm having a wonderful holiday in the hotel you told me about. (0) My room is very big and has a great view (25) __________ the sea. In the morning, I (26) __________ swimming in the sea. Then, I have lunch at the hotel café. They serve fresh fish that they catch near here. I have a nice big piece of cake, (27) __________.\nYesterday I went shopping. I bought a beautiful pink dress and a silver ring. I (28) __________ found a present to give to my sister. It's a painting of the island and I'm sure she will love (29) __________.\nTomorrow I will visit the local museum and I will (30) __________ lots of photos.\nI hope you and your family are well.\nLove,\nAlexis",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "John is too sick to go to work"
+    },
+    {
+      "quiz_id": 2,
+      "answer": "There will be more tablets at the end of the week"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "The festival finishes on Sunday"
+    },
+    {
+      "quiz_id": 4,
+      "answer": "You can't get into the lake"
+    },
+    {
+      "quiz_id": 5,
+      "answer": "to tell Billy that she saw her uncle ten days ago"
+    },
+    {
+      "quiz_id": 6,
+      "answer": "The house is close to the train station"
+    },
+    {
+      "quiz_id": 7,
+      "answer": "Sue"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "Karen"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "Peter"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "Karen"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "Sue"
+    },
+    {
+      "quiz_id": 12,
+      "answer": "Peter"
+    },
+    {
+      "quiz_id": 13,
+      "answer": "Karen"
+    },
+    {
+      "quiz_id": 14,
+      "answer": "the TV"
+    },
+    {
+      "quiz_id": 15,
+      "answer": "to a cafe"
+    },
+    {
+      "quiz_id": 16,
+      "answer": "how she could easily make someone’s life better"
+    },
+    {
+      "quiz_id": 17,
+      "answer": "She grows all the food by herself"
+    },
+    {
+      "quiz_id": 18,
+      "answer": "get other people to do what she is doing"
+    },
+    {
+      "quiz_id": 19,
+      "answer": "study"
+    },
+    {
+      "quiz_id": 20,
+      "answer": "interested"
+    },
+    {
+      "quiz_id": 21,
+      "answer": "listen"
+    },
+    {
+      "quiz_id": 22,
+      "answer": "became"
+    },
+    {
+      "quiz_id": 23,
+      "answer": "sick"
+    },
+    {
+      "quiz_id": 24,
+      "answer": "way"
+    },
+    {
+      "quiz_id": 25,
+      "answer": "in,am,too,also,it,take"
+    }
+  ]
+}

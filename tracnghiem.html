@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz UI</title>
+    <link rel="stylesheet" href="fontawesome-free-6.5.1-web/fontawesome-free-6.5.1-web/css/all.min.css"/>
+    <link rel="stylesheet" href="tracnghiem.css"/>
+</head>
+
+<body>
+    <div class="quiz_wrapper">
+        <div class="quiz_header">
+            <div>
+                <div class="quiz_timer">
+                    <i class="fa-regular fa-clock"></i>
+                    <div class="quiz_timer_text">
+                        <span>Time remaining</span>
+                        <p id="timer">14:00:00</p>
+                    </div>
+                </div>
+                <div class="test_selector">
+                    <select id="test_select" class="test_select">
+                        <option value="" hidden>Lựa chọn test</option>
+                        <option value="test1">Test 1</option>
+                        <option value="test2">Test 2</option>
+                        <option value="test3">Test 3</option>
+                        <option value="test4">Test 4</option>
+                        <option value="test5">Test 5</option>
+                        <option value="test6">Test 6</option>
+                        <option value="test7">Test 7</option>
+                        <option value="test8">Test 8</option>
+                    </select>
+                </div>
+            </div>
+            <button id="quiz_submit">SUBMIT</button>
+        </div>
+
+        <div class="quiz_container">
+            <div class="quiz_question">
+                <h5>Question 4 of 10</h5>
+                <p id="quiz_title">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
+                    delectus et magni harum atque, ex nostrum quaerat?
+                </p>
+                <ul>
+                    <li><span>A.</span><span class="quiz_answer_item">harum</span></li>
+                    <li><span>B.</span><span class="quiz_answer_item">harum</span></li>
+                    <li><span>C.</span><span class="quiz_answer_item">harum</span></li>
+                    <li><span>D.</span><span class="quiz_answer_item">harum</span></li>
+                </ul>
+            </div>
+            <div class="quiz_progress">
+                <svg>
+                    <circle r="50"></circle>
+                    <circle id="progress" r="50"></circle>
+                </svg>
+                <span id="progress_text">9/10</span>
+            </div>
+        </div>
+
+        <div id="quiz_incorrect"></div>
+
+        <div class="quiz_numbers">
+            <button id="quiz_prev">Prev</button>
+            <ul></ul>
+            <button id="quiz_next">Next</button>
+        </div>
+    </div>
+
+    <script src="tracnghiem.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,356 @@
+{
+  "quizz": [
+    {
+      "id": 1,
+      "question": "50% discount on all swimsuits\nFrom 29th May to 6th June\nBuy NOW!",
+      "answers": [
+        "All swimsuits are half price in June",
+        "The special offer is only for a few days",
+        "Everything is on sale for the next two months",
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Starway Coffee Shop\nCoffees and snacks\nMonday - Friday:\nfrom 7 a.m. to 10 p.m.\nSaturday & Sunday:\nfrom 7 a.m. to 3 p.m.",
+      "answers": [
+        "At the weekend the coffee shop closes one hour earlier",
+        "The coffee shop opens at the same time every day",
+        "You can only buy coffee here",
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Cinema tickets\nBuy one and get one free!\nOnly for students and over 65s",
+      "answers": [
+        "Students can buy two tickets for the price of one",
+        "People over 65 years old pay more to buy a ticket",
+        "There are free tickets for 65 students",
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Sophia\nDon’t forget that today is my birthday party. How are you getting to my home? Will your father drive you here?\nAh, please tell your brother to come with you if he wants to.\nAnnaS",
+      "answers": [
+        "Anna has invited both Sophia and her brother to her",
+        "Sophia will go to Anna’s home in her brother’s car",
+        "Sophia’s brother doesn’t want to go to Anna’s party",
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Weekend Job - Car Wash\nSaturday all day & Sunday mornings.\nAt Jason’s Garage, in Reed Road.\n£5 per hour.\nInformation: Mr. Black at 200507554.",
+      "answers": [
+        "You will need to work for the whole weekend",
+        "If you park your car here, you pay £5 per hour",
+        "Mr. Black can give you details about the job",
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Hello Ms Brown,\nMy art classes finish at the end of June. I want to find a job where I can practise my French.\nDo you know where I can work?\nI’m looking forward to your reply.\nJinnie\nWhy did Jinnie write this email?",
+      "answers": [
+        "to ask Ms Brown to teach her French",
+        "to ask Ms Brown to help her find a summer job",
+        "to ask Ms Brown to tell her when the art classes finish",
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Who gets a 50% discount at the cinema?",
+      "answers": [
+        "Michael",
+        "Josh",
+        "Mark",
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Who watches films at the weekend?",
+      "answers": [
+        "Michael",
+        "Josh",
+        "Mark",
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "question": " Who sometimes has to go before the film finishes?",
+      "answers": [
+       "Michael",
+        "Josh",
+        "Mark",
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Who says that films sometimes make his schoolwork easier?",
+      "answers": [
+        "Michael",
+        "Josh",
+        "Mark",
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Who prefers films with a lot of action?",
+      "answers": [
+        "Michael",
+        "Josh",
+        "Mark",
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Who goes to the cinema with a family member?",
+      "answers": [
+        "Michael",
+        "Josh",
+        "Mark",
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Who goes online after watching a film?",
+      "answers": [
+       "Michael",
+        "Josh",
+        "Mark",
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What is unusual about Guzman?",
+      "answers": [
+        "She doesn't like water at all",
+        "She is very strong for her age",
+        "She is struggling until she gets into the water",
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What is swimming for Guzman?",
+      "answers": [
+        "the most important thing in her life",
+        "just a good hobby",
+        "a way to have fun with friends",
+        ""
+      ]
+    },
+    {
+      "id": 16 ,
+      "question": "Betz says that Guzman",
+      "answers": [
+        "needs to practise more",
+        "was a champion from the beginning",
+        "is doing well because she works hard",
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "question": "What happened to Guzman in the Junior Olympics?",
+      "answers": [
+       "She swam faster than ever before",
+       "She won gold medals in all her races",
+       "She didn’t do as well as she wanted",
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Guzman says",
+      "answers": [
+        "she is not sure what will happen next",
+        "she wants to swim with her parents at the Olympics",
+        "she is doing what her parents do",
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "question": "The Eden Project is a(n) (19) __________ tourist destination in Cornwall, England. Inside the two special buildings that have been built are plants that are collected from all (20) __________ the world. These two areas have two different worlds inside them. The first is the Rainforest world and the second is the Mediterranean world. They (21) __________ like two big glass balls.Inside the Rainforest area you can walk high up in the air on a wooden (22) __________. From there you are in the tops of the trees. In the Mediterranean area you can see lots of beautiful and amazing plants.The Eden Project also has an outside garden (23) __________ is home to many plants and wildlife found in the UK. Over 850,000 people (24) __________ the Eden Project every year.",
+      "answers": [
+        "useful",
+        "popular",
+        "helpful",
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "question": "The Eden Project is a(n) (19) __________ tourist destination in Cornwall, England. Inside the two special buildings that have been built are plants that are collected from all (20) __________ the world. These two areas have two different worlds inside them. The first is the Rainforest world and the second is the Mediterranean world. They (21) __________ like two big glass balls.Inside the Rainforest area you can walk high up in the air on a wooden (22) __________. From there you are in the tops of the trees. In the Mediterranean area you can see lots of beautiful and amazing plants.The Eden Project also has an outside garden (23) __________ is home to many plants and wildlife found in the UK. Over 850,000 people (24) __________ the Eden Project every year.",
+      "answers": [
+        "over",
+        "in",
+        "above",
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "question": "The Eden Project is a(n) (19) __________ tourist destination in Cornwall, England. Inside the two special buildings that have been built are plants that are collected from all (20) __________ the world. These two areas have two different worlds inside them. The first is the Rainforest world and the second is the Mediterranean world. They (21) __________ like two big glass balls.Inside the Rainforest area you can walk high up in the air on a wooden (22) __________. From there you are in the tops of the trees. In the Mediterranean area you can see lots of beautiful and amazing plants.The Eden Project also has an outside garden (23) __________ is home to many plants and wildlife found in the UK. Over 850,000 people (24) __________ the Eden Project every year.",
+      "answers": [
+        "seem",
+        "look",
+        "show",
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "question": "The Eden Project is a(n) (19) __________ tourist destination in Cornwall, England. Inside the two special buildings that have been built are plants that are collected from all (20) __________ the world. These two areas have two different worlds inside them. The first is the Rainforest world and the second is the Mediterranean world. They (21) __________ like two big glass balls.Inside the Rainforest area you can walk high up in the air on a wooden (22) __________. From there you are in the tops of the trees. In the Mediterranean area you can see lots of beautiful and amazing plants.The Eden Project also has an outside garden (23) __________ is home to many plants and wildlife found in the UK. Over 850,000 people (24) __________ the Eden Project every year.",
+      "answers": [
+        "bridge",
+        "river",
+        "ruler",
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "question": "The Eden Project is a(n) (19) __________ tourist destination in Cornwall, England. Inside the two special buildings that have been built are plants that are collected from all (20) __________ the world. These two areas have two different worlds inside them. The first is the Rainforest world and the second is the Mediterranean world. They (21) __________ like two big glass balls.Inside the Rainforest area you can walk high up in the air on a wooden (22) __________. From there you are in the tops of the trees. In the Mediterranean area you can see lots of beautiful and amazing plants.The Eden Project also has an outside garden (23) __________ is home to many plants and wildlife found in the UK. Over 850,000 people (24) __________ the Eden Project every year.",
+      "answers": [
+        "who",
+        "what",
+        "which",
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "question": "The Eden Project is a(n) (19) __________ tourist destination in Cornwall, England. Inside the two special buildings that have been built are plants that are collected from all (20) __________ the world. These two areas have two different worlds inside them. The first is the Rainforest world and the second is the Mediterranean world. They (21) __________ like two big glass balls.Inside the Rainforest area you can walk high up in the air on a wooden (22) __________. From there you are in the tops of the trees. In the Mediterranean area you can see lots of beautiful and amazing plants.The Eden Project also has an outside garden (23) __________ is home to many plants and wildlife found in the UK. Over 850,000 people (24) __________ the Eden Project every year.",
+      "answers": [
+        "arrive",
+        "travel",
+        "visit",
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "question": "From: Paul\nTo: Maureen\nHi Maureen,\nHow (0) ___about___ going to the cinema? Ghostbusters 3 is on in the Savoy cinema (25) __________ 7 p.m. this Saturday. Tickets cost £5.00 each.\nI was also thinking to invite the new girl in our class, Sarah. She seems very nice, but it must (26) __________ hard trying to make new friends.\nBy the way, my dad said he could drive us there.\nWrite back soon\nPaul\n\nFrom: Maureen\nTo: Paul\nHi Paul,\nThanks for your email. Yes, let’s do it. And (28) __________ not invite Sarah, too? That’s a good idea.\nIf your dad can (29) __________ us a lift then let (30) __________ pay for the tickets.\nSpeak soon\nMaureen",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "The special offer is only for a few days"
+    },
+    {
+      "quiz_id": 2,
+      "answer": "The coffee shop opens at the same time every day"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "Students can buy two tickets for the price of one"
+    },
+    {
+      "quiz_id": 4,
+      "answer": "Anna has invited both Sophia and her brother to her"
+    },
+    {
+      "quiz_id": 5,
+      "answer": "Mr. Black can give you details about the job"
+    },
+    {
+      "quiz_id": 6,
+      "answer": "to ask Ms Brown to help her find a summer job"
+    },
+    {
+      "quiz_id": 7,
+      "answer": "Josh"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "Michael"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "Josh"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "Mark"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "Michael"
+    },
+    {
+      "quiz_id": 12,
+      "answer": "Josh"
+    },
+    {
+      "quiz_id": 13,
+      "answer": "Mark"
+    },
+    {
+      "quiz_id": 14,
+      "answer": "She is very strong for her age"
+    },
+    {
+      "quiz_id": 15,
+      "answer": "just a good hobby"
+    },
+    {
+      "quiz_id": 16,
+      "answer": "is doing well because she works hard"
+    },
+    {
+      "quiz_id": 17,
+      "answer": "She swam faster than ever before"
+    },
+    {
+      "quiz_id": 18,
+      "answer": "she is doing what her parents do"
+    },
+    {
+      "quiz_id": 19,
+      "answer": "popular"
+    },
+    {
+      "quiz_id": 20,
+      "answer": "over"
+    },
+    {
+      "quiz_id": 21,
+      "answer": "look"
+    },
+    {
+      "quiz_id": 22,
+      "answer": "bridge"
+    },
+    {
+      "quiz_id": 23,
+      "answer": "which"
+    },
+    {
+      "quiz_id": 24,
+      "answer": "visit"
+    },
+    {
+      "quiz_id": 25,
+      "answer": "at,be,by,why,give,me"
+    }
+  ]
+}

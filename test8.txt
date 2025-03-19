@@ -1,0 +1,356 @@
+{
+  "quizz": [
+    {
+      "id": 1,
+      "question": "New programme: People and Animals\nStarting tonight at 7:30 p.m.\nEvery Monday, Wednesday and Friday.\nIt’s not only people that take care of animals. Animals can help people as well.",
+      "answers": [
+        "You can watch the TV programme every day",
+        "The programme is not on the weekend",
+        "The programme is about people killing animals",
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "question": "John,\nAre you going to the Food Festival this weekend in the park? There will be food from all over the world. I want to try the food from Japan and Korea. I think you like French food, don’t you?\nPeter",
+      "answers": [
+        "Peter wants to try French food with John",
+        "Peter wants John to travel with him to Japan",
+        "Peter wants to eat different kinds of food",
+        ""
+      ]
+    },
+    {
+      "id": 3,
+      "question": "History Tour of Arundel Castle\nListen to the history of this famous castle with one of our tour guides.\nAdults: £10\nChildren: £6\nTimes: 10am, 11am and 3pm.",
+      "answers": [
+        "The last tour starts at 3 in the afternoon",
+        "The tour is half price for children",
+        "There is a tour of the castle every hour",
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Day Off\nIf you want to have a day off, please see Mrs Jones. Her office is on the top floor, opposite the coffee shop.\nPlease book your day off more than seven days before you want it.",
+      "answers": [
+        "Mrs Jones’ office is downstairs",
+        "Staff must book days off at least a week earlier",
+        "The coffee shop is next to Mrs Jones’ office",
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Hi Kim,\nI have my piano exam next week. The school is closed, and I need a piano to practise on. Please, can I come to your house on Saturday afternoon and practise on your piano?\nThanks,\nPaul\nWhy did Paul write this message?",
+      "answers": [
+        "to tell Kim that the school piano doesn’t work",
+        "to invite Kim to come to his home on Saturday",
+        "to ask Kim to let him practise on her piano",
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Electric Appliance Sale\nAppliance Before Now\nwashing machine £250 £150\ntelevision £300 £150\nfridge £150 £100\nSpecial prices end on Saturday. We can take your appliance to your house the next day for free.",
+      "answers": [
+        "Televisions have the biggest discount",
+        "The shop will make you pay extra to take the appliance to your home",
+        "All the appliances cost half price on Saturday",
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Young teachers\nPeter\nPeter works at a school in a village. He lives with two other teachers in a guest-house for free. The house is only a five-minute walk to school. The school is very small; only sixty pupils go there. The school has a small library and a small hall which can be used for indoor sports and meetings. There isn’t a lot of outdoor space, which means there isn’t enough room for students to play sports outside.\nKen\nKen works at a very big school with over eight hundred students and forty teachers. The school is in the middle of a very big city. He rents a house which is far away from school, so he goes there by bus. The school has pupils as well as teachers who have different nationalities. The school has everything the students need. There is another building next to the school where different sports can be played, a large cafeteria and a very big library. There are no outdoor sports.\nNick\nNick works at a school in the countryside, far away from any village or town. During the term, he lives at the school and goes home for the holidays. He sometimes goes home at the weekends, too. He is a very good teacher like most of the teachers who work there. This is why parents have to pay a lot of money to send their children there. His school has two very large swimming pools, one inside the school and the other one outside. The school has about five hundred students.\n\nWhich person works at the biggest school?",
+      "answers": [
+        "Peter",
+        "Ken",
+        "Nick",
+        ""
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Young teachers\nPeter\nPeter works at a school in a village. He lives with two other teachers in a guest-house for free. The house is only a five-minute walk to school. The school is very small; only sixty pupils go there. The school has a small library and a small hall which can be used for indoor sports and meetings. There isn’t a lot of outdoor space, which means there isn’t enough room for students to play sports outside.\nKen\nKen works at a very big school with over eight hundred students and forty teachers. The school is in the middle of a very big city. He rents a house which is far away from school, so he goes there by bus. The school has pupils as well as teachers who have different nationalities. The school has everything the students need. There is another building next to the school where different sports can be played, a large cafeteria and a very big library. There are no outdoor sports.\nNick\nNick works at a school in the countryside, far away from any village or town. During the term, he lives at the school and goes home for the holidays. He sometimes goes home at the weekends, too. He is a very good teacher like most of the teachers who work there. This is why parents have to pay a lot of money to send their children there. His school has two very large swimming pools, one inside the school and the other one outside. The school has about five hundred students.\n\nWhich person lives with other people in the same house?",
+      "answers": [
+        "Peter",
+        "Ken",
+        "Nick",
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Young teachers\nPeter\nPeter works at a school in a village. He lives with two other teachers in a guest-house for free. The house is only a five-minute walk to school. The school is very small; only sixty pupils go there. The school has a small library and a small hall which can be used for indoor sports and meetings. There isn’t a lot of outdoor space, which means there isn’t enough room for students to play sports outside.\nKen\nKen works at a very big school with over eight hundred students and forty teachers. The school is in the middle of a very big city. He rents a house which is far away from school, so he goes there by bus. The school has pupils as well as teachers who have different nationalities. The school has everything the students need. There is another building next to the school where different sports can be played, a large cafeteria and a very big library. There are no outdoor sports.\nNick\nNick works at a school in the countryside, far away from any village or town. During the term, he lives at the school and goes home for the holidays. He sometimes goes home at the weekends, too. He is a very good teacher like most of the teachers who work there. This is why parents have to pay a lot of money to send their children there. His school has two very large swimming pools, one inside the school and the other one outside. The school has about five hundred students.\n\n Which person has colleagues from other countries?",
+      "answers": [
+        "Peter",
+        "Ken",
+        "Nick",
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Young teachers\nPeter\nPeter works at a school in a village. He lives with two other teachers in a guest-house for free. The house is only a five-minute walk to school. The school is very small; only sixty pupils go there. The school has a small library and a small hall which can be used for indoor sports and meetings. There isn’t a lot of outdoor space, which means there isn’t enough room for students to play sports outside.\nKen\nKen works at a very big school with over eight hundred students and forty teachers. The school is in the middle of a very big city. He rents a house which is far away from school, so he goes there by bus. The school has pupils as well as teachers who have different nationalities. The school has everything the students need. There is another building next to the school where different sports can be played, a large cafeteria and a very big library. There are no outdoor sports.\nNick\nNick works at a school in the countryside, far away from any village or town. During the term, he lives at the school and goes home for the holidays. He sometimes goes home at the weekends, too. He is a very good teacher like most of the teachers who work there. This is why parents have to pay a lot of money to send their children there. His school has two very large swimming pools, one inside the school and the other one outside. The school has about five hundred students.\n\nWhich person works at a school that offers outdoor sports?",
+      "answers": [
+        "Peter",
+        "Ken",
+        "Nick",
+        ""
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Young teachers\nPeter\nPeter works at a school in a village. He lives with two other teachers in a guest-house for free. The house is only a five-minute walk to school. The school is very small; only sixty pupils go there. The school has a small library and a small hall which can be used for indoor sports and meetings. There isn’t a lot of outdoor space, which means there isn’t enough room for students to play sports outside.\nKen\nKen works at a very big school with over eight hundred students and forty teachers. The school is in the middle of a very big city. He rents a house which is far away from school, so he goes there by bus. The school has pupils as well as teachers who have different nationalities. The school has everything the students need. There is another building next to the school where different sports can be played, a large cafeteria and a very big library. There are no outdoor sports.\nNick\nNick works at a school in the countryside, far away from any village or town. During the term, he lives at the school and goes home for the holidays. He sometimes goes home at the weekends, too. He is a very good teacher like most of the teachers who work there. This is why parents have to pay a lot of money to send their children there. His school has two very large swimming pools, one inside the school and the other one outside. The school has about five hundred students.\n\nWhich person goes to school on foot?",
+      "answers": [
+        "Peter",
+        "Ken",
+        "Nick",
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Young teachers\nPeter\nPeter works at a school in a village. He lives with two other teachers in a guest-house for free. The house is only a five-minute walk to school. The school is very small; only sixty pupils go there. The school has a small library and a small hall which can be used for indoor sports and meetings. There isn’t a lot of outdoor space, which means there isn’t enough room for students to play sports outside.\nKen\nKen works at a very big school with over eight hundred students and forty teachers. The school is in the middle of a very big city. He rents a house which is far away from school, so he goes there by bus. The school has pupils as well as teachers who have different nationalities. The school has everything the students need. There is another building next to the school where different sports can be played, a large cafeteria and a very big library. There are no outdoor sports.\nNick\nNick works at a school in the countryside, far away from any village or town. During the term, he lives at the school and goes home for the holidays. He sometimes goes home at the weekends, too. He is a very good teacher like most of the teachers who work there. This is why parents have to pay a lot of money to send their children there. His school has two very large swimming pools, one inside the school and the other one outside. The school has about five hundred students.\n\nWhich person stays at school 24 hours a day?",
+      "answers": [
+        "Peter",
+        "Ken",
+        "Nick",
+        ""
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Young teachers\nPeter\nPeter works at a school in a village. He lives with two other teachers in a guest-house for free. The house is only a five-minute walk to school. The school is very small; only sixty pupils go there. The school has a small library and a small hall which can be used for indoor sports and meetings. There isn’t a lot of outdoor space, which means there isn’t enough room for students to play sports outside.\nKen\nKen works at a very big school with over eight hundred students and forty teachers. The school is in the middle of a very big city. He rents a house which is far away from school, so he goes there by bus. The school has pupils as well as teachers who have different nationalities. The school has everything the students need. There is another building next to the school where different sports can be played, a large cafeteria and a very big library. There are no outdoor sports.\nNick\nNick works at a school in the countryside, far away from any village or town. During the term, he lives at the school and goes home for the holidays. He sometimes goes home at the weekends, too. He is a very good teacher like most of the teachers who work there. This is why parents have to pay a lot of money to send their children there. His school has two very large swimming pools, one inside the school and the other one outside. The school has about five hundred students.\n\nWhich person works at an expensive school?",
+      "answers": [
+        "Peter",
+        "Ken",
+        "Nick",
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "question": "A family who loves animals\nEveryone in the Collins family loves animals. These days Anna Collins has stopped working as a doctor and she spends her days selling pet food, toys and just about everything an animal could need. In her free time she walks her dog.\nAnna's daughter, Georgia, also loves animals and was very happy when they finally got a dog, two years ago. She had wanted a cat when she was little but they all agreed that a rabbit was a much better pet for a little girl. Now, of course, she has many different animals all around her at home.\nThe reason for this is that Georgia's father, Jack, owns an animal shelter. This is where animals are brought when they have no home or owner. Jack says, 'We never say no if an animal needs our help and they come and go all the time. We always try to find them new homes with kind people.'\nGeorgia understands that the animals they save need a good home and it's a good thing if they don't have too many animals to look after. She still finds it difficult when a new animal that someone has left on the street or hurt in some way comes to them. 'I don’t understand how anyone could do that,' she says.\nGeorgia wants to work with animals when she leaves school so every weekend, when her friends go shopping, she goes to her Saturday job. She helps collect eggs from the chickens and gives water to the cows. 'It’s the best job,' she says. 'I love working outside.'\n\nWhat is Anna's job now?",
+      "answers": [
+        "doctor",
+        "dog walker",
+        "shop assistant",
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "question": "A family who loves animals\nEveryone in the Collins family loves animals. These days Anna Collins has stopped working as a doctor and she spends her days selling pet food, toys and just about everything an animal could need. In her free time she walks her dog.\nAnna's daughter, Georgia, also loves animals and was very happy when they finally got a dog, two years ago. She had wanted a cat when she was little but they all agreed that a rabbit was a much better pet for a little girl. Now, of course, she has many different animals all around her at home.\nThe reason for this is that Georgia's father, Jack, owns an animal shelter. This is where animals are brought when they have no home or owner. Jack says, 'We never say no if an animal needs our help and they come and go all the time. We always try to find them new homes with kind people.'\nGeorgia understands that the animals they save need a good home and it's a good thing if they don't have too many animals to look after. She still finds it difficult when a new animal that someone has left on the street or hurt in some way comes to them. 'I don’t understand how anyone could do that,' she says.\nGeorgia wants to work with animals when she leaves school so every weekend, when her friends go shopping, she goes to her Saturday job. She helps collect eggs from the chickens and gives water to the cows. 'It’s the best job,' she says. 'I love working outside.'\n\nWhat was Georgia’s first pet?",
+      "answers": [
+        "a dog",
+        "a rabbit",
+        "a cat",
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "question": "A family who loves animals\nEveryone in the Collins family loves animals. These days Anna Collins has stopped working as a doctor and she spends her days selling pet food, toys and just about everything an animal could need. In her free time she walks her dog.\nAnna's daughter, Georgia, also loves animals and was very happy when they finally got a dog, two years ago. She had wanted a cat when she was little but they all agreed that a rabbit was a much better pet for a little girl. Now, of course, she has many different animals all around her at home.\nThe reason for this is that Georgia's father, Jack, owns an animal shelter. This is where animals are brought when they have no home or owner. Jack says, 'We never say no if an animal needs our help and they come and go all the time. We always try to find them new homes with kind people.'\nGeorgia understands that the animals they save need a good home and it's a good thing if they don't have too many animals to look after. She still finds it difficult when a new animal that someone has left on the street or hurt in some way comes to them. 'I don’t understand how anyone could do that,' she says.\nGeorgia wants to work with animals when she leaves school so every weekend, when her friends go shopping, she goes to her Saturday job. She helps collect eggs from the chickens and gives water to the cows. 'It’s the best job,' she says. 'I love working outside.'\n\nJack says that",
+      "answers": [
+        "there isn’t any room left for other animals",
+        "they can only have one more animal",
+        "they give some animals to other people",
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "question": "A family who loves animals\nEveryone in the Collins family loves animals. These days Anna Collins has stopped working as a doctor and she spends her days selling pet food, toys and just about everything an animal could need. In her free time she walks her dog.\nAnna's daughter, Georgia, also loves animals and was very happy when they finally got a dog, two years ago. She had wanted a cat when she was little but they all agreed that a rabbit was a much better pet for a little girl. Now, of course, she has many different animals all around her at home.\nThe reason for this is that Georgia's father, Jack, owns an animal shelter. This is where animals are brought when they have no home or owner. Jack says, 'We never say no if an animal needs our help and they come and go all the time. We always try to find them new homes with kind people.'\nGeorgia understands that the animals they save need a good home and it's a good thing if they don't have too many animals to look after. She still finds it difficult when a new animal that someone has left on the street or hurt in some way comes to them. 'I don’t understand how anyone could do that,' she says.\nGeorgia wants to work with animals when she leaves school so every weekend, when her friends go shopping, she goes to her Saturday job. She helps collect eggs from the chickens and gives water to the cows. 'It’s the best job,' she says. 'I love working outside.'\n\nWhat makes Georgia feel sad?",
+      "answers": [
+        "when the animals have to leave",
+        "when they only have a few animals at the shelter",
+        "when people are unkind to animals",
+        ""
+      ]
+    },
+    {
+      "id": 18,
+      "question": "A family who loves animals\nEveryone in the Collins family loves animals. These days Anna Collins has stopped working as a doctor and she spends her days selling pet food, toys and just about everything an animal could need. In her free time she walks her dog.\nAnna's daughter, Georgia, also loves animals and was very happy when they finally got a dog, two years ago. She had wanted a cat when she was little but they all agreed that a rabbit was a much better pet for a little girl. Now, of course, she has many different animals all around her at home.\nThe reason for this is that Georgia's father, Jack, owns an animal shelter. This is where animals are brought when they have no home or owner. Jack says, 'We never say no if an animal needs our help and they come and go all the time. We always try to find them new homes with kind people.'\nGeorgia understands that the animals they save need a good home and it's a good thing if they don't have too many animals to look after. She still finds it difficult when a new animal that someone has left on the street or hurt in some way comes to them. 'I don’t understand how anyone could do that,' she says.\nGeorgia wants to work with animals when she leaves school so every weekend, when her friends go shopping, she goes to her Saturday job. She helps collect eggs from the chickens and gives water to the cows. 'It’s the best job,' she says. 'I love working outside.'\n\nWhere does Georgia go every Saturday?",
+      "answers": [
+        "to the farm",
+        "to the school",
+        "to the shops",
+        ""
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Dogs\nDogs are the (19)______________ popular pets in many countries. One reason why this is true is that they are easy to live with. They are easy to feed and look (20)______________ and they can also become (21)______________ of the family. They are often called “man’s best friend”. This is because they can make us laugh, they help us not feel alone, or (22)______________ make new friends. This is because people with dogs often love to (23)______________ with other people who have a dog, too.\nDogs are very clever and they can also help people do their (24)______________. For example, there are guide dogs that help people who can’t see, or police dogs that can find people or things that the police are looking for.",
+      "answers": [
+        "best",
+        "biggest",
+        "most",
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Dogs\nDogs are the (19)______________ popular pets in many countries. One reason why this is true is that they are easy to live with. They are easy to feed and look (20)______________ and they can also become (21)______________ of the family. They are often called “man’s best friend”. This is because they can make us laugh, they help us not feel alone, or (22)______________ make new friends. This is because people with dogs often love to (23)______________ with other people who have a dog, too.\nDogs are very clever and they can also help people do their (24)______________. For example, there are guide dogs that help people who can’t see, or police dogs that can find people or things that the police are looking for.",
+      "answers": [
+        "for",
+        "after",
+        "out",
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Dogs\nDogs are the (19)______________ popular pets in many countries. One reason why this is true is that they are easy to live with. They are easy to feed and look (20)______________ and they can also become (21)______________ of the family. They are often called “man’s best friend”. This is because they can make us laugh, they help us not feel alone, or (22)______________ make new friends. This is because people with dogs often love to (23)______________ with other people who have a dog, too.\nDogs are very clever and they can also help people do their (24)______________. For example, there are guide dogs that help people who can’t see, or police dogs that can find people or things that the police are looking for.",
+      "answers": [
+        "part",
+        "type",
+        "piece",
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Dogs\nDogs are the (19)______________ popular pets in many countries. One reason why this is true is that they are easy to live with. They are easy to feed and look (20)______________ and they can also become (21)______________ of the family. They are often called “man’s best friend”. This is because they can make us laugh, they help us not feel alone, or (22)______________ make new friends. This is because people with dogs often love to (23)______________ with other people who have a dog, too.\nDogs are very clever and they can also help people do their (24)______________. For example, there are guide dogs that help people who can’t see, or police dogs that can find people or things that the police are looking for.",
+      "answers": [
+        "still",
+        "even",
+        "instead",
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Dogs\nDogs are the (19)______________ popular pets in many countries. One reason why this is true is that they are easy to live with. They are easy to feed and look (20)______________ and they can also become (21)______________ of the family. They are often called “man’s best friend”. This is because they can make us laugh, they help us not feel alone, or (22)______________ make new friends. This is because people with dogs often love to (23)______________ with other people who have a dog, too.\nDogs are very clever and they can also help people do their (24)______________. For example, there are guide dogs that help people who can’t see, or police dogs that can find people or things that the police are looking for.",
+      "answers": [
+        "tell",
+        "say",
+        "chat",
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Dogs\nDogs are the (19)______________ popular pets in many countries. One reason why this is true is that they are easy to live with. They are easy to feed and look (20)______________ and they can also become (21)______________ of the family. They are often called “man’s best friend”. This is because they can make us laugh, they help us not feel alone, or (22)______________ make new friends. This is because people with dogs often love to (23)______________ with other people who have a dog, too.\nDogs are very clever and they can also help people do their (24)______________. For example, there are guide dogs that help people who can’t see, or police dogs that can find people or things that the police are looking for.",
+      "answers": [
+        "business",
+        "work",
+        "career",
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "question": "From: Artemis\nTo: Dylan\n\nHi Dylan,\nI am having a great time on my holiday. On Monday, we arrived in Spain - the first time I have (25) __________ been to another country. I was so excited!\nFirst, my dad rented a car and we drove to the beach. A lot of people were there, but I liked it. I found a group of kids (26) __________. age and we became friends. Unfortunately, it wasn’t long before I had to (27) __________ goodbye to them for the evening. Then Dad drove us to our hotel. It is very nice!\nI’ll tell you more (28) __________ my holiday tomorrow. (29) __________ you have any news, send me an email or text. I can’t wait to hear (30) __________ you.\nLove,\nArtemis",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "The programme is not on the weekend"
+    },
+    {
+      "quiz_id": 2,
+      "answer": "Peter wants to eat different kinds of food"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "The last tour starts at 3 in the afternoon"
+    },
+    {
+      "quiz_id": 4,
+      "answer": "The coffee shop is next to Mrs Jones’ office"
+    },
+    {
+      "quiz_id": 5,
+      "answer": "to ask Kim to let him practise on her piano"
+    },
+    {
+      "quiz_id": 6,
+      "answer": "Televisions have the biggest discount"
+    },
+    {
+      "quiz_id": 7,
+      "answer": "Ken"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "Peter"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "Ken"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "Nick"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "Peter"
+    },
+    {
+      "quiz_id": 12,
+      "answer": "Nick"
+    },
+    {
+      "quiz_id": 13,
+      "answer": "Nick"
+    },
+    {
+      "quiz_id": 14,
+      "answer": "shop assistant"
+    },
+    {
+      "quiz_id": 15,
+      "answer": "a rabbit"
+    },
+    {
+      "quiz_id": 16,
+      "answer": "they give some animals to other people"
+    },
+    {
+      "quiz_id": 17,
+      "answer": "when people are unkind to animals"
+    },
+    {
+      "quiz_id": 18,
+      "answer": "to the farm"
+    },
+    {
+      "quiz_id": 19,
+      "answer": "most"
+    },
+    {
+      "quiz_id": 20,
+      "answer": "after"
+    },
+    {
+      "quiz_id": 21,
+      "answer": "part"
+    },
+    {
+      "quiz_id": 22,
+      "answer": "even"
+    },
+    {
+      "quiz_id": 23,
+      "answer": "chat"
+    },
+    {
+      "quiz_id": 24,
+      "answer": "work"
+    },
+    {
+      "quiz_id": 25,
+      "answer": "ever,my,say,about,it,from"
+    }
+  ]
+}

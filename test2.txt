@@ -1,0 +1,356 @@
+{
+  "quizz": [
+    {
+      "id": 1,
+      "question": "NEW SMARTPHONE\nPrice: £200\n10% Discount for students\nA free phone case with every phone on Saturday.",
+      "answers": [
+        "The new smartphone has a special price at the weekend",
+        "People studying have to pay less to buy the new smartphone",
+        "The free gift is only available on weekdays",
+        "4"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Hi Jeremy,\nI’m going to visit a university this Friday. If I pass my exams, I want to be a student at this one. Do you want to come with me?",
+      "answers": [
+        "to tell Jeremy that he passed his exams",
+        "to tell Jeremy that he’ll visit a university next week",
+        "to ask Jeremy to join him when he visits a university",
+        "4"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "MARIO & STELLA'S WEDDING\nThe wedding is at 12 p.m.\nPlease arrive at the church no earlier than 11 a.m.\nLunch will be at the restaurant next door.\nPlease leave presents in the hall as you go in for lunch.",
+      "answers": [
+        "The place guests will have lunch is not far away",
+        "Guests can arrive at the church before 11 a.m",
+        "Guests should leave the presents at the church",
+        "4"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Hi Elvis,\nIam really excited because we are going to France. I have never flown before. My mum said it’s a small plane. Anyway, it’s only a one-hour flight.\nPriscilla\nPriscilla is excited because:.",
+      "answers": [
+        "she has never been on a plane before",
+        "the flight is a couple of hours long",
+        "she is travelling in a large plane",
+        "4"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "SVILLAGE SHOP\nOpening Hours:\n7 a.m. to 7 p.m.\n(From 1st July we will open at 6 a.m.)\nServices: Post office, fresh food, newspapers. Sorry, no frozen food.",
+      "answers": [
+        "You can’t post letters at the shop",
+        "The shop will open an hour earlier in July",
+        "Frozen food is available all day",
+        "4"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "SCHOOL TRIP TO FRANCE\nWhen: next month\nInformation: school office, any morning this week except for Wednesday\nPrice: £50 online, or £40 if you pay in cash\nPlease bring your passport!",
+      "answers": [
+        "Students can ask about the trip any day this week",
+        "All students need to pay at the school office",
+        "Some students can pay less for the trip",
+        "4"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which person is said to be a beginner at something?",
+      "answers": [
+        "Charles",
+        "Maria",
+        "Spiros",
+        "4"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which person knows what they want to be in the future?",
+      "answers": [
+       "Charles",
+        "Maria",
+        "Spiros",
+        "4"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which person did something different from other people of their age?",
+      "answers": [
+        "Charles",
+        "Maria",
+        "Spiros",
+        "4"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Which person used a computer to win a competition?",
+      "answers": [
+        "Charles",
+        "Maria",
+        "Spiros",
+        "4"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Which person doesn’t like the internet?",
+      "answers": [
+        "Charles",
+        "Maria",
+        "Spiros",
+        "4"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Which person was the best in their country?",
+      "answers": [
+       "Charles",
+        "Maria",
+        "Spiros",
+        "4"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Which person will meet someone famous?",
+      "answers": [
+        "Charles",
+        "Maria",
+        "Spiros",
+        "4"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What problem did Sophia have when she was a child?",
+      "answers": [
+        "Her family didn’t have much money",
+        "Her parents didn’t want her to have nice things",
+        "Her friends laughed at her because she was poor",
+        "4"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What does Sophia say about the first time she sold something?",
+      "answers": [
+        "It was quite difficult",
+        "She became rich with the first thing she sold",
+        "She did it just for fun",
+        "4"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Sophia believes that she will",
+      "answers": [
+        "go to university when she is older.",
+        "be sorry that she didn’t go to university",
+        "still enjoy life when she’s a bit older",
+        "4"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "What did Sophia think about winning the competition?",
+      "answers": [
+        "She knew that she was going to win it",
+        "She felt very special",
+        "She didn’t understand why she had won it",
+        "4"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What is Sophia planning to do next?",
+      "answers": [
+        "find a new boss",
+        "look for staff",
+        "move to a new office",
+        "4"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Camping is a great (19)............... to spend a holiday. You can enjoy nature and have a (20)............ at the same time. If you go camping far from the city, you must remember to bring everything you need with you.  First, you need a tent and a sleeping bag. Also a small backpack in which you can (21)..............water, some clothes and something to eat on day trips. Be very careful with things you eat. Don't eat something if you don't know what it is! Finally, it's useful to have a (22)................ of the area you are going to. It can help you if you get lost. When you go camping, there are also some rules you must follow. For example, if you want to make a campfire make (23) ............... that you make your fire well away from tents, grasses or trees. Also always remember to (24) ............... your rubbish in the bins and not leave it behind.",
+      "answers": [
+        "plan",
+        "path",
+        "Way",
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Camping is a great (19)............... to spend a holiday. You can enjoy nature and have a (20)............ at the same time. If you go camping far from the city, you must remember to bring everything you need with you.  First, you need a tent and a sleeping bag. Also a small backpack in which you can (21)..............water, some clothes and something to eat on day trips. Be very careful with things you eat. Don't eat something if you don't know what it is! Finally, it's useful to have a (22)................ of the area you are going to. It can help you if you get lost. When you go camping, there are also some rules you must follow. For example, if you want to make a campfire make (23) ............... that you make your fire well away from tents, grasses or trees. Also always remember to (24) ............... your rubbish in the bins and not leave it behind.",
+      "answers": [
+        "stuff",
+        "rest",
+        "tour",
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Camping is a great (19)............... to spend a holiday. You can enjoy nature and have a (20)............ at the same time. If you go camping far from the city, you must remember to bring everything you need with you.  First, you need a tent and a sleeping bag. Also a small backpack in which you can (21)..............water, some clothes and something to eat on day trips. Be very careful with things you eat. Don't eat something if you don't know what it is! Finally, it's useful to have a (22)................ of the area you are going to. It can help you if you get lost. When you go camping, there are also some rules you must follow. For example, if you want to make a campfire make (23) ............... that you make your fire well away from tents, grasses or trees. Also always remember to (24) ............... your rubbish in the bins and not leave it behind.",
+      "answers": [
+        "carry",
+        "move",
+        "travel",
+        ""
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Camping is a great (19)............... to spend a holiday. You can enjoy nature and have a (20)............ at the same time. If you go camping far from the city, you must remember to bring everything you need with you.  First, you need a tent and a sleeping bag. Also a small backpack in which you can (21)..............water, some clothes and something to eat on day trips. Be very careful with things you eat. Don't eat something if you don't know what it is! Finally, it's useful to have a (22)................ of the area you are going to. It can help you if you get lost. When you go camping, there are also some rules you must follow. For example, if you want to make a campfire make (23) ............... that you make your fire well away from tents, grasses or trees. Also always remember to (24) ............... your rubbish in the bins and not leave it behind.",
+      "answers": [
+        "menu",
+        "kit",
+        "map",
+        ""
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Camping is a great (19)............... to spend a holiday. You can enjoy nature and have a (20)............ at the same time. If you go camping far from the city, you must remember to bring everything you need with you.  First, you need a tent and a sleeping bag. Also a small backpack in which you can (21)..............water, some clothes and something to eat on day trips. Be very careful with things you eat. Don't eat something if you don't know what it is! Finally, it's useful to have a (22)................ of the area you are going to. It can help you if you get lost. When you go camping, there are also some rules you must follow. For example, if you want to make a campfire make (23) ............... that you make your fire well away from tents, grasses or trees. Also always remember to (24) ............... your rubbish in the bins and not leave it behind.",
+      "answers": [
+        "safe",
+        "sure",
+        "right",
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Camping is a great (19)............... to spend a holiday. You can enjoy nature and have a (20)............ at the same time. If you go camping far from the city, you must remember to bring everything you need with you.  First, you need a tent and a sleeping bag. Also a small backpack in which you can (21)..............water, some clothes and something to eat on day trips. Be very careful with things you eat. Don't eat something if you don't know what it is! Finally, it's useful to have a (22)................ of the area you are going to. It can help you if you get lost. When you go camping, there are also some rules you must follow. For example, if you want to make a campfire make (23) ............... that you make your fire well away from tents, grasses or trees. Also always remember to (24) ............... your rubbish in the bins and not leave it behind.",
+      "answers": [
+        "let",
+        "throw",
+        "fall",
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "question": "t is my birthday (0)on Saturday, and I am having a funny hat party. I have invited a (25) __________ of my friends. Would you like (26) __________ come, too?\nMy address is 12, Moor Road, Gateshead and my telephone number is 0113 4743812. Call (27) __________ if you can't find the road.\nCould you bring some music playlists or CDs (28) __________  you? I know that you love listening to music so you must have a lot. Also, do (29) __________ forget your funny hat!\n| (30) __________ you can come.\nSee you soon,\nMark",
+      "answers": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "People studying have to pay less to buy the new smartphone"
+    },
+    {
+      "quiz_id": 2,
+      "answer": "to ask Jeremy to join him when he visits a university"
+    },
+    {
+      "quiz_id": 3,
+      "answer": "The place guests will have lunch is not far away"
+    },
+    {
+      "quiz_id": 4,
+      "answer": "she has never been on a plane before"
+    },
+    {
+      "quiz_id": 5,
+      "answer": "The shop will open an hour earlier in July"
+    },
+    {
+      "quiz_id": 6,
+      "answer": "Some students can pay less for the trip"
+    },
+    {
+      "quiz_id": 7,
+      "answer": "Maria"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "Spiros"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "Charles"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "Maria"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "Spiros"
+    },
+    {
+      "quiz_id": 12,
+      "answer": "Charles"
+    },
+    {
+      "quiz_id": 13,
+      "answer": "Maria"
+    },
+    {
+      "quiz_id": 14,
+      "answer": "Her family didn’t have much money"
+    },
+    {
+      "quiz_id": 15,
+      "answer": "She did it just for fun"
+    },
+    {
+      "quiz_id": 16,
+      "answer": "still enjoy life when she’s a bit older"
+    },
+    {
+      "quiz_id": 17,
+      "answer": "She felt very special"
+    },
+    {
+      "quiz_id": 18,
+      "answer": "look for staff"
+    },
+    {
+      "quiz_id": 19,
+      "answer": "Way"
+    },
+    {
+      "quiz_id": 20,
+      "answer": "rest"
+    },
+    {
+      "quiz_id": 21,
+      "answer": "carry"
+    },
+    {
+      "quiz_id": 22,
+      "answer": "map"
+    },
+    {
+      "quiz_id": 23,
+      "answer": "sure"
+    },
+    {
+      "quiz_id": 24,
+      "answer": "throw"
+    },
+    {
+      "quiz_id": 25,
+      "answer": "few,to,me,with,not,hope"
+    }
+  ]
+}

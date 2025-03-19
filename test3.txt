@@ -1,0 +1,332 @@
+{
+  "quizz": [
+    {
+      "id": 1,
+      "question": "CITY MUSEUM\nEvery day 10am to 5pm\nAdults: £10- Children: £5\nVisit the special Science Exhibition in Room 2\nMonday Only: 10am to 2pm \nAdults: £2 extra - Children: free",
+      "answers": [
+        "Entrance to the museum is free for children.",
+        "The science exhibition is open all week.",
+        "Adults pay a total of £12 to see the exhibition."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Hi Simon,\nWe are visiting the factory on Monday at 10am to learn about the new toys we are making. After the visit we will go back to the office for lunch.\nBob",
+      "answers": [
+        "Bob and Simon will go to the factory together.",
+        "Bob and Simon will have lunch at the factory.",
+        "Bob and Simon won't go to the office on Monday."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "ROCK CONCERT\nCan you play a musical instrument? Do you like rock music? \nIf yes, contact Stuart on 555-1256, or send an email to stuart@roczzz.eu to take part in the best concert next Friday.",
+      "answers": [
+        "You can only contact Stuart by phone.",
+        "There is a music event next week.",
+        "The event has many types of music."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Hi Emma,\nThe film I want to see at the cinema isn't on. But there is a film on TV I want to see. Do you want to join me? \nHelen",
+      "answers": [
+        "Emma doesn't want to see a film on TV.",
+        "Helen wants Emma to go with her to the cinema.",
+        "Helen will stay at home tonight."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "BEACH NOTICE\nOnly swim between the green signs. \nNo swimming between the red signs. \nIf you see someone in trouble, call 999.",
+      "answers": [
+        "If there are no signs, call 999.",
+        "The green signs show the safe area.",
+        "People aren't allowed to swim on this beach."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Jane's birthday party \nNOTES\ninvite friends from university \nprepare drinks and sandwiches during the afternoon\n6p.m. buy pizzas\n7p.m. guests arrive",
+      "answers": [
+        "There will be no cold food at the party.",
+        "Jane's friends from work are coming.",
+        "Friends will arrive after ordering the hot food."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Star City \nStar City is a city-building game available for X-box, PlayStation, and Windows PC. Players have to build and look after a city in the future on another world. They have to decide what to do in an ever-changing city and be sure that the city and its people have everything they need to live. There are lots of problems and difficult things for the players to do but this makes the player think carefully so that they can make the best decision. This will probably help them in the real world. Players must be over eighteen years old to play this game.\nFast Drive \nFast Drive is a game that has lots of dangerous driving in it. Players are rewarded for driving on the wrong side of the road, driving into other cars or motorbikes, and creating problems all over a city. Parents of new teenage drivers might want to think about the fact that playing some racing games can make their children want to drive in such a way in real life. This game also has an online part that allows for chat, so each player will hear everything that other online players say. \nDinosaurs\nWhat kid hasn't thought about how much fun it would be to have a pet dinosaur as a best friend, or maybe to go for a ride on the back of a fire-eating animal? Dinosaurs is perfect for children aged between 10 and 14. The players work with dinosaurs that they have found. The game is all about becoming friends with your dinosaur and it is like going on an adventure with a loved family pet that has big teeth. Sometimes the player has to repeat some actions too many times, which might be a bit boring, but most of the game is interesting.\nWhich game allows players to listen to other people?",
+      "answers": [
+        "Star City",
+        "Fast Drive",
+        "Dinosaurs"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Star City \nStar City is a city-building game available for X-box, PlayStation, and Windows PC. Players have to build and look after a city in the future on another world. They have to decide what to do in an ever-changing city and be sure that the city and its people have everything they need to live. There are lots of problems and difficult things for the players to do but this makes the player think carefully so that they can make the best decision. This will probably help them in the real world. Players must be over eighteen years old to play this game.\nFast Drive \nFast Drive is a game that has lots of dangerous driving in it. Players are rewarded for driving on the wrong side of the road, driving into other cars or motorbikes, and creating problems all over a city. Parents of new teenage drivers might want to think about the fact that playing some racing games can make their children want to drive in such a way in real life. This game also has an online part that allows for chat, so each player will hear everything that other online players say. \nDinosaurs\nWhat kid hasn't thought about how much fun it would be to have a pet dinosaur as a best friend, or maybe to go for a ride on the back of a fire-eating animal? Dinosaurs is perfect for children aged between 10 and 14. The players work with dinosaurs that they have found. The game is all about becoming friends with your dinosaur and it is like going on an adventure with a loved family pet that has big teeth. Sometimes the player has to repeat some actions too many times, which might be a bit boring, but most of the game is interesting.\nWhich game is about having a strange friend?",
+      "answers": [
+        "Star City",
+        "Fast Drive",
+        "Dinosaurs"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Star City \nStar City is a city-building game available for X-box, PlayStation, and Windows PC. Players have to build and look after a city in the future on another world. They have to decide what to do in an ever-changing city and be sure that the city and its people have everything they need to live. There are lots of problems and difficult things for the players to do but this makes the player think carefully so that they can make the best decision. This will probably help them in the real world. Players must be over eighteen years old to play this game.\nFast Drive \nFast Drive is a game that has lots of dangerous driving in it. Players are rewarded for driving on the wrong side of the road, driving into other cars or motorbikes, and creating problems all over a city. Parents of new teenage drivers might want to think about the fact that playing some racing games can make their children want to drive in such a way in real life. This game also has an online part that allows for chat, so each player will hear everything that other online players say. \nDinosaurs\nWhat kid hasn't thought about how much fun it would be to have a pet dinosaur as a best friend, or maybe to go for a ride on the back of a fire-eating animal? Dinosaurs is perfect for children aged between 10 and 14. The players work with dinosaurs that they have found. The game is all about becoming friends with your dinosaur and it is like going on an adventure with a loved family pet that has big teeth. Sometimes the player has to repeat some actions too many times, which might be a bit boring, but most of the game is interesting.\n Which game tells players to do bad things?",
+      "answers": [
+        "Star City",
+        "Fast Drive",
+        "Dinosaurs"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Star City \nStar City is a city-building game available for X-box, PlayStation, and Windows PC. Players have to build and look after a city in the future on another world. They have to decide what to do in an ever-changing city and be sure that the city and its people have everything they need to live. There are lots of problems and difficult things for the players to do but this makes the player think carefully so that they can make the best decision. This will probably help them in the real world. Players must be over eighteen years old to play this game.\nFast Drive \nFast Drive is a game that has lots of dangerous driving in it. Players are rewarded for driving on the wrong side of the road, driving into other cars or motorbikes, and creating problems all over a city. Parents of new teenage drivers might want to think about the fact that playing some racing games can make their children want to drive in such a way in real life. This game also has an online part that allows for chat, so each player will hear everything that other online players say. \nDinosaurs\nWhat kid hasn't thought about how much fun it would be to have a pet dinosaur as a best friend, or maybe to go for a ride on the back of a fire-eating animal? Dinosaurs is perfect for children aged between 10 and 14. The players work with dinosaurs that they have found. The game is all about becoming friends with your dinosaur and it is like going on an adventure with a loved family pet that has big teeth. Sometimes the player has to repeat some actions too many times, which might be a bit boring, but most of the game is interesting.\nWhich game asks players to help someone?",
+      "answers": [
+        "Star City",
+        "Fast Drive",
+        "Dinosaurs"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Star City \nStar City is a city-building game available for X-box, PlayStation, and Windows PC. Players have to build and look after a city in the future on another world. They have to decide what to do in an ever-changing city and be sure that the city and its people have everything they need to live. There are lots of problems and difficult things for the players to do but this makes the player think carefully so that they can make the best decision. This will probably help them in the real world. Players must be over eighteen years old to play this game.\nFast Drive \nFast Drive is a game that has lots of dangerous driving in it. Players are rewarded for driving on the wrong side of the road, driving into other cars or motorbikes, and creating problems all over a city. Parents of new teenage drivers might want to think about the fact that playing some racing games can make their children want to drive in such a way in real life. This game also has an online part that allows for chat, so each player will hear everything that other online players say. \nDinosaurs\nWhat kid hasn't thought about how much fun it would be to have a pet dinosaur as a best friend, or maybe to go for a ride on the back of a fire-eating animal? Dinosaurs is perfect for children aged between 10 and 14. The players work with dinosaurs that they have found. The game is all about becoming friends with your dinosaur and it is like going on an adventure with a loved family pet that has big teeth. Sometimes the player has to repeat some actions too many times, which might be a bit boring, but most of the game is interesting.\nWhich game can be useful for players in their life?",
+      "answers": [
+        "Star City",
+        "Fast Drive",
+        "Dinosaurs"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Star City \nStar City is a city-building game available for X-box, PlayStation, and Windows PC. Players have to build and look after a city in the future on another world. They have to decide what to do in an ever-changing city and be sure that the city and its people have everything they need to live. There are lots of problems and difficult things for the players to do but this makes the player think carefully so that they can make the best decision. This will probably help them in the real world. Players must be over eighteen years old to play this game.\nFast Drive \nFast Drive is a game that has lots of dangerous driving in it. Players are rewarded for driving on the wrong side of the road, driving into other cars or motorbikes, and creating problems all over a city. Parents of new teenage drivers might want to think about the fact that playing some racing games can make their children want to drive in such a way in real life. This game also has an online part that allows for chat, so each player will hear everything that other online players say. \nDinosaurs\nWhat kid hasn't thought about how much fun it would be to have a pet dinosaur as a best friend, or maybe to go for a ride on the back of a fire-eating animal? Dinosaurs is perfect for children aged between 10 and 14. The players work with dinosaurs that they have found. The game is all about becoming friends with your dinosaur and it is like going on an adventure with a loved family pet that has big teeth. Sometimes the player has to repeat some actions too many times, which might be a bit boring, but most of the game is interesting.\nWhich game is not very exciting sometimes?",
+      "answers": [
+        "Star City",
+        "Fast Drive",
+        "Dinosaurs"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Star City \nStar City is a city-building game available for X-box, PlayStation, and Windows PC. Players have to build and look after a city in the future on another world. They have to decide what to do in an ever-changing city and be sure that the city and its people have everything they need to live. There are lots of problems and difficult things for the players to do but this makes the player think carefully so that they can make the best decision. This will probably help them in the real world. Players must be over eighteen years old to play this game.\nFast Drive \nFast Drive is a game that has lots of dangerous driving in it. Players are rewarded for driving on the wrong side of the road, driving into other cars or motorbikes, and creating problems all over a city. Parents of new teenage drivers might want to think about the fact that playing some racing games can make their children want to drive in such a way in real life. This game also has an online part that allows for chat, so each player will hear everything that other online players say. \nDinosaurs\nWhat kid hasn't thought about how much fun it would be to have a pet dinosaur as a best friend, or maybe to go for a ride on the back of a fire-eating animal? Dinosaurs is perfect for children aged between 10 and 14. The players work with dinosaurs that they have found. The game is all about becoming friends with your dinosaur and it is like going on an adventure with a loved family pet that has big teeth. Sometimes the player has to repeat some actions too many times, which might be a bit boring, but most of the game is interesting.\nWhich game is suitable only for adults?",
+      "answers": [
+        "Star City",
+        "Fast Drive",
+        "Dinosaurs"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "The Three Peaks Challenge\nMy name is Shaun Perkins. I am seventeen years old and I have just done the famous Three Peaks Challenge. This is a walking challenge which means that you have to walk up three high mountains. I did it to get money for my local children's hospital because they had helped my brother when he was very sick. I did the walk with a special group because it can be quite dangerous especially if the weather is bad. They have a guide who shows you where to walk. When we started on the first mountain, I was worried that it would be too difficult for me but actually it wasn't as bad as I thought it was going to be.\nWe did the walk in the summer so that the weather would be good. The first two mountains were lovely as the sun was shining. However, we were half way up the third mountain when a storm suddenly came. It was raining and there was a heavy thunderstorm. I was very afraid. No one was hurt but we did get very wet. The most important thing about this challenge is the clothes you wear. That means you need good walking boots, trousers and jacket, and a hat for the sun. It doesn't matter what your clothes look like but they mustbe comfortable. Also, you need a small bag.\nI had a brilliant time on the challenge even though it rained. I didn't really have many people to talk to but the places where we walked were really beautiful and I loved looking all around me, on the mountains.\nWhy did Shaun want to do the Three Peaks Challenge?",
+      "answers": [
+        "to help his brother get better",
+        "to help the hospital in his town",
+        "to pay for his brother's hospital bill"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "The Three Peaks Challenge\nMy name is Shaun Perkins. I am seventeen years old and I have just done the famous Three Peaks Challenge. This is a walking challenge which means that you have to walk up three high mountains. I did it to get money for my local children's hospital because they had helped my brother when he was very sick. I did the walk with a special group because it can be quite dangerous especially if the weather is bad. They have a guide who shows you where to walk. When we started on the first mountain, I was worried that it would be too difficult for me but actually it wasn't as bad as I thought it was going to be.\nWe did the walk in the summer so that the weather would be good. The first two mountains were lovely as the sun was shining. However, we were half way up the third mountain when a storm suddenly came. It was raining and there was a heavy thunderstorm. I was very afraid. No one was hurt but we did get very wet. The most important thing about this challenge is the clothes you wear. That means you need good walking boots, trousers and jacket, and a hat for the sun. It doesn't matter what your clothes look like but they mustbe comfortable. Also, you need a small bag.\nI had a brilliant time on the challenge even though it rained. I didn't really have many people to talk to but the places where we walked were really beautiful and I loved looking all around me, on the mountains.\nWhat does Shaun say about the first mountain?",
+      "answers": [
+        "It wasn't as much of a problem as he had thought.",
+        "It was very difficult to walk up.",
+        "The guide helped him when he got lost."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "The Three Peaks Challenge\nMy name is Shaun Perkins. I am seventeen years old and I have just done the famous Three Peaks Challenge. This is a walking challenge which means that you have to walk up three high mountains. I did it to get money for my local children's hospital because they had helped my brother when he was very sick. I did the walk with a special group because it can be quite dangerous especially if the weather is bad. They have a guide who shows you where to walk. When we started on the first mountain, I was worried that it would be too difficult for me but actually it wasn't as bad as I thought it was going to be.\nWe did the walk in the summer so that the weather would be good. The first two mountains were lovely as the sun was shining. However, we were half way up the third mountain when a storm suddenly came. It was raining and there was a heavy thunderstorm. I was very afraid. No one was hurt but we did get very wet. The most important thing about this challenge is the clothes you wear. That means you need good walking boots, trousers and jacket, and a hat for the sun. It doesn't matter what your clothes look like but they mustbe comfortable. Also, you need a small bag.\nI had a brilliant time on the challenge even though it rained. I didn't really have many people to talk to but the places where we walked were really beautiful and I loved looking all around me, on the mountains.\nWhat happened to Shaun on the last mountain?",
+      "answers": [
+        "He got wet but he wasn't worried.",
+        "He had an accident because the weather was bad.",
+        "He was worried about the weather but it was OK in the end."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "The Three Peaks Challenge\nMy name is Shaun Perkins. I am seventeen years old and I have just done the famous Three Peaks Challenge. This is a walking challenge which means that you have to walk up three high mountains. I did it to get money for my local children's hospital because they had helped my brother when he was very sick. I did the walk with a special group because it can be quite dangerous especially if the weather is bad. They have a guide who shows you where to walk. When we started on the first mountain, I was worried that it would be too difficult for me but actually it wasn't as bad as I thought it was going to be.\nWe did the walk in the summer so that the weather would be good. The first two mountains were lovely as the sun was shining. However, we were half way up the third mountain when a storm suddenly came. It was raining and there was a heavy thunderstorm. I was very afraid. No one was hurt but we did get very wet. The most important thing about this challenge is the clothes you wear. That means you need good walking boots, trousers and jacket, and a hat for the sun. It doesn't matter what your clothes look like but they mustbe comfortable. Also, you need a small bag.\nI had a brilliant time on the challenge even though it rained. I didn't really have many people to talk to but the places where we walked were really beautiful and I loved looking all around me, on the mountains.\nShaun says that",
+      "answers": [
+        "you should take a big bag with you.",
+        "you need to wear the right clothes.",
+        "you should wear a nice looking hat."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "The Three Peaks Challenge\nMy name is Shaun Perkins. I am seventeen years old and I have just done the famous Three Peaks Challenge. This is a walking challenge which means that you have to walk up three high mountains. I did it to get money for my local children's hospital because they had helped my brother when he was very sick. I did the walk with a special group because it can be quite dangerous especially if the weather is bad. They have a guide who shows you where to walk. When we started on the first mountain, I was worried that it would be too difficult for me but actually it wasn't as bad as I thought it was going to be.\nWe did the walk in the summer so that the weather would be good. The first two mountains were lovely as the sun was shining. However, we were half way up the third mountain when a storm suddenly came. It was raining and there was a heavy thunderstorm. I was very afraid. No one was hurt but we did get very wet. The most important thing about this challenge is the clothes you wear. That means you need good walking boots, trousers and jacket, and a hat for the sun. It doesn't matter what your clothes look like but they mustbe comfortable. Also, you need a small bag.\nI had a brilliant time on the challenge even though it rained. I didn't really have many people to talk to but the places where we walked were really beautiful and I loved looking all around me, on the mountains.\nWhat did Shaun enjoy most?",
+      "answers": [
+        "the countryside",
+        "the weather",
+        "the people"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Sports\nThere are many different (19)________of sports that people can do. Some people do sport as a job and others only because they enjoy to do so. To do some sports like hockey, you need a lot of (20) However, there are some other sports that you need very (21)______________ things to play.\nSome people prefer to watch sports on TV or online, or they may even like going to a (22)_____________ One thing is for sure; almost everyone likes sports but in (23)____________country there are some sports that are more (24)_____________ than others. For example, in the UK people prefer to play football or cricket, while in the USA people often play basketball or baseball.",
+      "answers": [
+        "sides",
+        "kinds",
+        "parts"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Sports\nThere are many different (19)________of sports that people can do. Some people do sport as a job and others only because they enjoy to do so. To do some sports like hockey, you need a lot of (20) However, there are some other sports that you need very (21)______________ things to play.\nSome people prefer to watch sports on TV or online, or they may even like going to a (22)_____________ One thing is for sure; almost everyone likes sports but in (23)____________country there are some sports that are more (24)_____________ than others. For example, in the UK people prefer to play football or cricket, while in the USA people often play basketball or baseball.",
+      "answers": [
+        "occupation",
+        "furniture",
+        "equipment"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Sports\nThere are many different (19)________of sports that people can do. Some people do sport as a job and others only because they enjoy to do so. To do some sports like hockey, you need a lot of (20) However, there are some other sports that you need very (21)______________ things to play.\nSome people prefer to watch sports on TV or online, or they may even like going to a (22)_____________ One thing is for sure; almost everyone likes sports but in (23)____________country there are some sports that are more (24)_____________ than others. For example, in the UK people prefer to play football or cricket, while in the USA people often play basketball or baseball.",
+      "answers": [
+        "less",
+        "few",
+        "many"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Sports\nThere are many different (19)________of sports that people can do. Some people do sport as a job and others only because they enjoy to do so. To do some sports like hockey, you need a lot of (20) However, there are some other sports that you need very (21)______________ things to play.\nSome people prefer to watch sports on TV or online, or they may even like going to a (22)_____________ One thing is for sure; almost everyone likes sports but in (23)____________country there are some sports that are more (24)_____________ than others. For example, in the UK people prefer to play football or cricket, while in the USA people often play basketball or baseball.",
+      "answers": [
+        "station",
+        "stage",
+        "stadium"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Sports\nThere are many different (19)________of sports that people can do. Some people do sport as a job and others only because they enjoy to do so. To do some sports like hockey, you need a lot of (20) However, there are some other sports that you need very (21)______________ things to play.\nSome people prefer to watch sports on TV or online, or they may even like going to a (22)_____________ One thing is for sure; almost everyone likes sports but in (23)____________country there are some sports that are more (24)_____________ than others. For example, in the UK people prefer to play football or cricket, while in the USA people often play basketball or baseball.",
+      "answers": [
+        "each",
+        "all",
+        "whole"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Sports\nThere are many different (19)________of sports that people can do. Some people do sport as a job and others only because they enjoy to do so. To do some sports like hockey, you need a lot of (20) However, there are some other sports that you need very (21)______________ things to play.\nSome people prefer to watch sports on TV or online, or they may even like going to a (22)_____________ One thing is for sure; almost everyone likes sports but in (23)____________country there are some sports that are more (24)_____________ than others. For example, in the UK people prefer to play football or cricket, while in the USA people often play basketball or baseball.",
+      "answers": [
+        "classical",
+        "helpful",
+        "popular"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "From: Jenny\nTo: Kate\nThank you (0)___for___ the letter and the photo. Your new house looks really nice. I can't wait (25) __________ come and visit.\nMy family is going on holiday for two weeks (26) __________ July. We are going to rent a house on an island. There are lots of places to swim and sunbathe.\nWe will stay near a small town. My mum and I are going to do a lot (27) __________ shopping there. My dad and my brother don't like shopping, but (28) __________ will take a boat out and go fishing!\nWould you (29) __________ to come with us? (30) __________ could go to the beach and swim in\nthe sea, go shopping or to the cinema.\nPlease write soon.\nLove,\nJenny",
+      "answers": [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "results": [
+    {
+      "quiz_id": 1,
+      "answer": "Adults pay a total of £12 to see the exhibition."
+    },
+    {
+      "quiz_id": 2,
+      "answer": "Bob and Simon will go to the factory together."
+    },
+    {
+      "quiz_id": 3,
+      "answer": "There is a music event next week."
+    },
+    {
+      "quiz_id": 4,
+      "answer": "Helen will stay at home tonight."
+    },
+    {
+      "quiz_id": 5,
+      "answer": "The green signs show the safe area."
+    },
+    {
+      "quiz_id": 6,
+      "answer": "Friends will arrive after ordering the hot food."
+    },
+    {
+      "quiz_id": 7,
+      "answer": "Fast Drive"
+    },
+    {
+      "quiz_id": 8,
+      "answer": "Fast Drive"
+    },
+    {
+      "quiz_id": 9,
+      "answer": "Dinosaurs"
+    },
+    {
+      "quiz_id": 10,
+      "answer": "Star City"
+    },
+    {
+      "quiz_id": 11,
+      "answer": "Star City"
+    },
+    {
+      "quiz_id": 12,
+      "answer": "Dinosaurs"
+    },
+    {
+      "quiz_id": 13,
+      "answer": "Star City"
+    },
+    {
+      "quiz_id": 14,
+      "answer": "to help the hospital in his town"
+    },
+    {
+      "quiz_id": 15,
+      "answer": "It wasn't as much of a problem as he had thought."
+    },
+    {
+      "quiz_id": 16,
+      "answer": "He was worried about the weather but it was OK in the end."
+    },
+    {
+      "quiz_id": 17,
+      "answer": "you need to wear the right clothes."
+    },
+    {
+      "quiz_id": 18,
+      "answer": "the countryside"
+    },
+    {
+      "quiz_id": 19,
+      "answer": "kinds"
+    },
+    {
+      "quiz_id": 20,
+      "answer": "equipment"
+    },
+    {
+      "quiz_id": 21,
+      "answer": "few"
+    },
+    {
+      "quiz_id": 22,
+      "answer": "stadium"
+    },
+    {
+      "quiz_id": 23,
+      "answer": "each"
+    },
+    {
+      "quiz_id": 24,
+      "answer": "popular"
+    },
+    {
+      "quiz_id": 25,
+      "answer": "to,in,of,they,like,We"
+    }
+  ]
+}
+    
