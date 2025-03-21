@@ -14,7 +14,6 @@ body {
   font-size: 1.6rem;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background: linear-gradient(to bottom, #f3f7ec, #bce2e7);
-  height: 100vh;
   display: flex;
   justify-content: center;
   color: #333;
@@ -291,7 +290,7 @@ ul {
   }
 
   .quiz_header {
-    width: 70%;
+    width: 100%;
     flex-direction: row; /* Stack the header elements */
     align-items: center;
     padding-bottom: 2rem; /* Reduce padding */
@@ -360,12 +359,12 @@ ul {
   }
 
   .test_selector {
-    margin-left: 0; /* Remove margin */
+    margin-left: 10px; /* Remove margin */
     margin-top: 0; /* Adjust top margin */
   }
 
   .test_select {
-    width: 50px;
+    width: 100px;
     font-size: 1.1rem; /* Adjust font size of the test selector */
     padding: 1rem 1.5rem; /* Adjust padding */
   }
@@ -373,8 +372,8 @@ ul {
   .quiz_progress {
     position: absolute;
     margin: 0;
-    left: 55%;
-    top: 33%;
+    left: -15%;
+    top: 7%;
   }
 
   #progress, .quiz_progress svg circle {
