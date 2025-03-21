@@ -31,6 +31,16 @@ testSelect.addEventListener('change', function () {
         .then(data => {
             dataSelect = JSON.parse(data);
             console.log(dataSelect)
+            currentIndex = 0;
+            listSubmit = [];
+            listResults = [];
+            countQuestion = 0;
+            savedAnswers = {};
+            savedColor = {};
+            correct = 0;
+            incorrect_text = ""
+            quizQuestions.forEach((item) => item.classList.remove("active"));
+            quizAnswers.forEach((item) => item.classList.remove("active"));
 
             renderQuestion(dataSelect);
         })
