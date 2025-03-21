@@ -335,18 +335,17 @@ ul {
   }
 
   .quiz_numbers {
-    flex-direction: column; /* Stack numbers vertically */
+    flex-direction: row; /* Stack numbers vertically */
     gap: 1rem; /* Adjust gap */
   }
 
   .quiz_numbers>ul {
-    flex-direction: column; /* Stack quiz numbers vertically */
+    flex-direction: row; /* Stack quiz numbers vertically */
     width: 100%; /* Ensure full width */
     gap: 1rem;
   }
 
   .quiz_numbers>ul>li {
-    width: 100%; /* Make numbers take full width */
     height: auto; /* Allow number size to adjust */
     line-height: 3rem; /* Adjust line-height */
   }
