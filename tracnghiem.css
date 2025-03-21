@@ -273,3 +273,112 @@ ul {
 .test_select:hover {
   background: #1e5d4c;
 }
+
+@media (max-width: 480px) {
+  html {
+    font-size: 50%; /* Decreases font size to fit smaller screens */
+  }
+
+  body {
+    font-size: 1.4rem; /* Smaller body font size */
+    padding: 1rem; /* Reduce padding on smaller screens */
+  }
+
+  .quiz_wrapper {
+    width: 90%; /* Make the quiz wrapper more narrow */
+    padding: 2rem; /* Adjust padding */
+    min-height: auto; /* Let the height adjust based on content */
+  }
+
+  .quiz_header {
+    width: 70%;
+    flex-direction: row; /* Stack the header elements */
+    align-items: center;
+    padding-bottom: 2rem; /* Reduce padding */
+  }
+
+  .quiz_timer {
+    flex-direction: column; /* Stack timer items vertically */
+    align-items: flex-start;
+  }
+
+  .quiz_timer>i {
+    font-size: 2rem; /* Adjust icon size */
+  }
+
+  .quiz_timer_text>span {
+    font-size: 0.9rem; /* Smaller text */
+  }
+
+  .quiz_timer_text>p {
+    font-size: 1.3rem; /* Smaller time text */
+  }
+
+  button {
+    padding: 0.8rem 1.5rem; /* Adjust button size */
+    font-size: 1.4rem; /* Decrease font size */
+  }
+
+  .quiz_container {
+    flex-direction: column; /* Stack question and progress vertically */
+    align-items: stretch;
+  }
+
+  .quiz_question ul {
+    flex-direction: column; /* Stack options vertically */
+    gap: 1rem; /* Decrease gap between options */
+  }
+
+  .quiz_question ul li {
+    width: 100%; /* Make options take full width */
+    padding: 1rem; /* Adjust padding */
+  }
+
+  .quiz_numbers {
+    flex-direction: column; /* Stack numbers vertically */
+    gap: 1rem; /* Adjust gap */
+  }
+
+  .quiz_numbers>ul {
+    flex-direction: column; /* Stack quiz numbers vertically */
+    width: 100%; /* Ensure full width */
+    gap: 1rem;
+  }
+
+  .quiz_numbers>ul>li {
+    width: 100%; /* Make numbers take full width */
+    height: auto; /* Allow number size to adjust */
+    line-height: 3rem; /* Adjust line-height */
+  }
+
+  .finish_input {
+    width: 80px; /* Adjust width of input field */
+    font-size: 1rem; /* Adjust font size */
+  }
+
+  #quiz_incorrect {
+    font-size: 1.2rem; /* Adjust incorrect message size */
+  }
+
+  .test_selector {
+    margin-left: 0; /* Remove margin */
+    margin-top: 0; /* Adjust top margin */
+  }
+
+  .test_select {
+    width: 50px;
+    font-size: 1.1rem; /* Adjust font size of the test selector */
+    padding: 1rem 1.5rem; /* Adjust padding */
+  }
+
+  .quiz_progress {
+    position: absolute;
+    margin: 0;
+    left: 55%;
+    top: 33%;
+  }
+
+  #progress, .quiz_progress svg circle {
+    r: 25;
+  }
+}
