@@ -218,8 +218,8 @@
     },
     {
       "id": 25,
-      "question": "From: Jenny\nnTo: Kate\nThank you (0) ___for___ the letter and the photo. Your new house looks really nice. I can't wait (25) __________ come and visit.\nMy family is going on holiday for two weeks (26) __________ July. We are going to rent a house on an island. There are lots of places to swim and sunbathe.\nWe will stay near a small town. My mum and I are going to do a lot (27) __________ shopping there. My dad and my brother don't like shopping, but (28) __________ will take a boat out and go fishing!\nWould you (29) __________ to come with us? (30) __________ could go to the beach and swim in\nthe sea, go shopping or to the cinema.\nPlease write soon.\nLove,\nJenny",
-      "answers": [ 
+      "question": "From: Tom\nnTo: Helen\nHi Helen!\nI got (0) ___some___ great news today! You know that the exam I was studying so hard for? I passed!\nMy music teacher told (25) __________ this morning.\nI'm really happy because now I can go to Herford University to study music. It has (26) __________ best music course in the country.\nHow did your exams go?\n Write back and tell me all (27) __________ news.\nLove,\nTom\nFrom: Helen\nTo: Tom\nHey, Tom!\nWell done! I'm really happy for you. I got my results, too, and you'll never guess (28) __________ what happened; I (29) __________ an A in maths! That means I can go to Manchester Institude of Technology to study engineering. I can work (30) __________ an engineer, jus like my dad.\nSpeak soon,\nHelen",
+      "answers": [
         "Words",
         "Letters",
         "Messages"
@@ -237,7 +237,7 @@
     },
     {
       "quiz_id": 3,
-      "answer": "to ask Tim about his new school."
+      "answer": "to ask Tim about his new school"
     },
     {
       "quiz_id": 4,
