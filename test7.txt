@@ -285,7 +285,7 @@
     },
     {
       "quiz_id": 15,
-      "answer": "that he was very clever."
+      "answer": "that he was very clever"
     },
     {
       "quiz_id": 16,
