@@ -273,7 +273,7 @@
     },
     {
       "quiz_id": 12,
-      "answer": "Dinosaurs"
+      "answer": "Gemma"
     },
     {
       "quiz_id": 13,
