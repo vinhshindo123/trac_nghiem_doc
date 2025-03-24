@@ -218,7 +218,7 @@
     },
     {
       "id": 25,
-      "question": "From: Tom\nnTo: Helen\nHi Helen!\nI got (0) ___some___ great news today! You know that the exam I was studying so hard for? I passed!\nMy music teacher told (25) __________ this morning.\nI'm really happy because now I can go to Herford University to study music. It has (26) __________ best music course in the country.\nHow did your exams go?\n Write back and tell me all (27) __________ news.\nLove,\nTom\nFrom: Helen\nTo: Tom\nHey, Tom!\nWell done! I'm really happy for you. I got my results, too, and you'll never guess (28) __________ what happened; I (29) __________ an A in maths! That means I can go to Manchester Institude of Technology to study engineering. I can work (30) __________ an engineer, jus like my dad.\nSpeak soon,\nHelen",
+      "question": "From: Tom\nnTo: Helen\nHi Helen!\nI got (0) ___some___ great news today! You know that the exam I was studying so hard for? I passed!\nMy music teacher told (25) __________ this morning.\nI'm really happy because now I can go to Herford University to study music. It has (26) __________ best music course in the country.\nHow did your exams go?\n Write back and tell me all (27) __________ news.\nLove,\nTom\nFrom: Helen\nTo: Tom\nHey, Tom!\nWell done! I'm really happy for you. I got my results, too, and you'll never guess (28) __________ happened; I (29) __________ an A in maths! That means I can go to Manchester Institude of Technology to study engineering. I can work (30) __________ an engineer, jus like my dad.\nSpeak soon,\nHelen",
       "answers": [
         "Words",
         "Letters",
@@ -325,7 +325,7 @@
     },
     {
       "quiz_id": 25,
-      "answer": "me,the,the,what,get,as"
+      "answer": "me,the,great,what,got,as"
     }
   ]
 }
