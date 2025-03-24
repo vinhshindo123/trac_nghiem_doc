@@ -45,7 +45,7 @@ testSelect.addEventListener('change', function () {
                 item.classList.remove("active");
                 item.classList.remove("incorrect");
             });
-            quizIncorretText.forEach((item) => item.style.display = "none");
+            quizIncorretText.style.display = "none";
 
             renderQuestion(dataSelect);
         })
