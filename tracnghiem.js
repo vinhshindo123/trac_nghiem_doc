@@ -40,7 +40,7 @@ testSelect.addEventListener('change', function () {
             correct = 0;
             incorrect_text = ""
             quizQuestions.forEach((item) => item.classList.remove("active"));
-            document.querySelector(".quiz_question ul").style.display = 'block';
+            document.querySelector(".quiz_question ul").style.display = 'flex';
             quizAnswers.forEach((item) => {
                 item.classList.remove("active");
                 item.classList.remove("incorrect");
