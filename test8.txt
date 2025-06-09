@@ -242,7 +242,7 @@
     },
     {
       "id": 25,
-      "question": "From: Artemis\nTo: Dylan\n\nHi Dylan,\nI am having a great time on my holiday. On Monday, we arrived in Spain - the first time I have (25) __________ been to another country. I was so excited!\nFirst, my dad rented a car and we drove to the beach. A lot of people were there, but I liked it. I found a group of kids (26) __________. age and we became friends. Unfortunately, it wasn’t long before I had to (27) __________ goodbye to them for the evening. Then Dad drove us to our hotel. It is very nice!\nI’ll tell you more (28) __________ my holiday tomorrow. (29) __________ you have any news, send me an email or text. I can’t wait to hear (30) __________ you.\nLove,\nArtemis",
+      "question": "From: Artemis\nTo: Dylan\n\nHi Dylan,\nI am having a great time on my holiday. On Monday, we arrived in Spain - the first time I have been (25) __________ to another country. I was so excited!\nFirst, my dad rented a car and we drove to the beach. A lot of people were there, but I liked it. I found a group of kids (26) __________ age and we became friends. Unfortunately, it wasn’t long before I had to (27) __________ goodbye to them for the evening. Then Dad drove us to our hotel. It is very nice!\nI’ll tell you more (28) __________ my holiday tomorrow. If you have (29) __________ news, send me an email or text. I can’t wait to hear (30) __________ you.\nLove,\nArtemis",
       "answers": [
         "",
         "",
@@ -350,7 +350,7 @@
     },
     {
       "quiz_id": 25,
-      "answer": "ever,my,say,about,it,from"
+      "answer": "ever,my,say,about,any,from"
     }
   ]
 }
