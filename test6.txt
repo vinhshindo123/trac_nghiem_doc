@@ -242,7 +242,7 @@
     },
     {
       "id": 25,
-      "question": "Hi VickyI missed class today because I had (0).. to go to my sister's wedding. (25)__________ was the lesson? I hope you were there because I am missing the biology notes. Please can you email them to me? I need them because we have (26)__________ after tomorrow and I want to make sure (27)__________ I pass. exam the day By the way, did you hear (28)__________ Facebook page that he, too, is (29)__________. Ralph Mathers, the biology professor? I saw on his married this weekend! Please write back (30)__________ soon as possible!",
+      "question": "Hi VickyI missed class today because I had (0).. to go to my sister's wedding. (25)__________ was the lesson? I hope you were there because I am missing the biology notes. Please can you email them to me? I need them because we have (26)__________ exam after tomorrow and I want to make sure (27)__________ I pass. By the way, did you hear (28)__________ Ralph Mathers, the biology professor? I saw on his Facebook page that he, too, is (29)__________ married this weekend!\n Please write back as (30)__________ as possible!",
       "answers": [
         "",
         "",
@@ -350,7 +350,7 @@
     },
     {
       "quiz_id": 25,
-      "answer": "now,on,that,about,getting,as"
+      "answer": "How,an,that,about,getting,soon"
     }
   ]
 }
