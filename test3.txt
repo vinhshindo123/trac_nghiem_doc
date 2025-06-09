@@ -218,7 +218,7 @@
     },
     {
       "id": 25,
-      "question": "From: Jenny\nTo: Kate\nThank you (0)___for___ the letter and the photo. Your new house looks really nice. I can't wait (25) __________ come and visit.\nMy family is going on holiday for two weeks (26) __________ July. We are going to rent a house on an island. There are lots of places to swim and sunbathe.\nWe will stay near a small town. My mum and I are going to do a lot (27) __________ shopping there. My dad and my brother don't like shopping, but (28) __________ will take a boat out and go fishing!\nWould you (29) __________ to come with us? (30) __________ could go to the beach and swim in\nthe sea, go shopping or to the cinema.\nPlease write soon.\nLove,\nJenny",
+      "question": "From: Jenny\nTo: Kate\nThank you (0)___for___ the letter and the photo. Your new house looks really nice. I can't wait (25) __________ come and visit.\nMy family is going on holiday for two weeks (26) __________ July. We are going to rent a house on an island. There are lots of places to swim and sunbathe.\nWe will stay near a small town. My mum and I are going to do a lot (27) __________ shopping there. My dad and my brother don't like shopping, but (28) __________ will take a boat out and go fishing!\nWould you (29) __________ to come with us? We could go to the beach and swim in\nthe sea, (30) __________ shopping or to the cinema.\nPlease write soon.\nLove,\nJenny",
       "answers": [
         "",
         "",
@@ -325,7 +325,7 @@
     },
     {
       "quiz_id": 25,
-      "answer": "to,in,of,they,like,We"
+      "answer": "to,in,of,they,like,go"
     }
   ]
 }
