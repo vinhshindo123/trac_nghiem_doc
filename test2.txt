@@ -242,7 +242,7 @@
     },
     {
       "id": 25,
-      "question": "t is my birthday (0)on Saturday, and I am having a funny hat party. I have invited a (25) __________ of my friends. Would you like (26) __________ come, too?\nMy address is 12, Moor Road, Gateshead and my telephone number is 0113 4743812. Call (27) __________ if you can't find the road.\nCould you bring some music playlists or CDs (28) __________  you? I know that you love listening to music so you must have a lot. Also, do (29) __________ forget your funny hat!\n| (30) __________ you can come.\nSee you soon,\nMark",
+      "question": "t is my birthday (0)on Saturday, and I am having a funny hat party. I have invited a (25) __________ of my friends. Would you like (26) __________ come, too?\nMy address is 12, Moor Road, Gateshead and my telephone number is 0113 4743812. Call (27) __________ if you can't find the road.\nCould you bring some music playlists or CDs (28) __________  you? I know that you love listening to music (29) __________ you must have a lot. Also, don't forget your funny hat!\n| (30) __________ you can come.\nSee you soon,\nMark",
       "answers": [
         "",
         "",
@@ -350,7 +350,7 @@
     },
     {
       "quiz_id": 25,
-      "answer": "few,to,me,with,not,hope"
+      "answer": "few,to,me,with,so,hope"
     }
   ]
 }
