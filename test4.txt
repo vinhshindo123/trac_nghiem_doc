@@ -242,7 +242,7 @@
     },
     {
       "id": 25,
-      "question": "From: Alexis\nTo: Rachel\nI'm having a wonderful holiday in the hotel you told me about. (0) My room is very big and has a great view (25) __________ the sea. In the morning, I (26) __________ swimming in the sea. Then, I have lunch at the hotel café. They serve fresh fish that they catch near here. I have a nice big piece of cake, (27) __________.\nYesterday I went shopping. I bought a beautiful pink dress and a silver ring. I (28) __________ found a present to give to my sister. It's a painting of the island and I'm sure she will love (29) __________.\nTomorrow I will visit the local museum and I will (30) __________ lots of photos.\nI hope you and your family are well.\nLove,\nAlexis",
+      "question": "From: Alexis\nTo: Rachel\nI'm having a wonderful holiday in the hotel you told me about. (0) My room is very big and has a great view (25) __________ the sea. In the morning, I (26) __________ swimming in the sea. Then, I have lunch at the hotel café. They serve fresh fish that they catch near here. I have a nice big piece of cake, (27) __________.\nYesterday I went shopping. I (28) __________ a beautiful pink dress and a silver ring. I also found a present to give to my sister. It's a painting of the island and I'm sure she will love it.\nTomorrow I will visit the local museum and I will (29) __________ lots of photos.\nI hope you and your family (30) __________ well.\nLove,\nAlexis",
       "answers": [
         "",
         "",
@@ -350,7 +350,7 @@
     },
     {
       "quiz_id": 25,
-      "answer": "in,am,too,also,it,take"
+      "answer": "of,go,too,bought,take,are"
     }
   ]
 }
