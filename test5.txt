@@ -242,7 +242,7 @@
     },
     {
       "id": 25,
-      "question": "From: Paul\nTo: Maureen\nHi Maureen,\nHow (0) ___about___ going to the cinema? Ghostbusters 3 is on in the Savoy cinema (25) __________ 7 p.m. this Saturday. Tickets cost £5.00 each.\nI was also thinking to invite the new girl in our class, Sarah. She seems very nice, but it must (26) __________ hard trying to make new friends.\nBy the way, my dad said he could drive us there.\nWrite back soon\nPaul\n\nFrom: Maureen\nTo: Paul\nHi Paul,\nThanks for your email. Yes, let’s do it. And (28) __________ not invite Sarah, too? That’s a good idea.\nIf your dad can (29) __________ us a lift then let (30) __________ pay for the tickets.\nSpeak soon\nMaureen",
+      "question": "From: Paul\nTo: Maureen\nHi Maureen,\nHow (0) ___about___ going to the cinema? Ghostbusters 3 is on in the Savoy cinema (25) __________ 7 p.m. this Saturday. Tickets cost £5.00 each.\nI was also thinking to invite the new girl in our class, Sarah. She seems very nice, but she must (26) __________ trying hard to make new friends.\n(27) __________ the way, my dad said he could drive us there.\nWrite (28) __________ soon\nPaul\n\nFrom: Maureen\nTo: Paul\nHi Paul,\nThanks for your email. Yes, let’s do it. And (29) __________ not invite Sarah, too? That’s a good idea.\nIf your dad can (30) __________ us a lift then let me pay for the tickets.\nSpeak soon\nMaureen",
       "answers": [
         "",
         "",
@@ -350,7 +350,7 @@
     },
     {
       "quiz_id": 25,
-      "answer": "at,be,by,why,give,me"
+      "answer": "at,be,By,back,why,give"
     }
   ]
 }
