@@ -242,7 +242,7 @@
     },
     {
       "id": 25,
-      "question": "I'm on holiday with (0) my parents in Bali. The weather is great. I'm (25) __________ to play beach volleyball later. It is really nice here. The hotel is big and it (26) __________ to play beach got a large swimming pool.\nI have taken (27) __________ of photographs which I will show you when I return home. It's such (28) __________ shame you couldn't come with us. I think you'll like this place (29) __________ well.\nWish you were (30) __________.\nLove,\nJohn",
+      "question": "I'm on holiday with (0) my parents in Bali. The weather is great. I'm (25) __________ to play beach volleyball later. It is really nice here. The hotel is big and it (26) __________ got a large swimming pool.\nI have taken (27) __________ of photographs which I will show you when I return home. It's such (28) __________ shame you couldn't come with us. I think you'll like this place (29) __________ well.\nWish you were (30) __________.\nLove,\nJohn",
       "answers": [
         "going",
         "has",
